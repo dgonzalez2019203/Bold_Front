@@ -1,0 +1,54 @@
+
+.spacer {
+    flex: 1 1 auto;
+}
+  
+
+.example-sidenav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    padding: 0.5rem;
+}
+
+
+mat-sidenav {
+    background-color: #222d32;
+   
+}
+
+.active-list-item{
+    border-style: solid;
+    border-color: #b8c7ce;
+    border-width: 0 0 0 7px;
+    background-color: #0e1112 !important;
+}
+
+.mat-list-item{
+    color: #b8c7ce;
+}
+
+.fix{
+    position: fixed;
+    z-index: 999;
+}
+
+.menu-button {
+    transition: 300ms ease-in-out;
+    transform: rotate(0deg);
+  }
+  .menu-button.rotated {
+    transform: rotate(180deg);
+  }
+  .submenu {
+    overflow-y: hidden;
+    transition: transform 300ms ease;
+    transform: scaleY(0);
+    transform-origin: top;
+    padding-left: 30px;
+  }
+  .submenu.expanded {
+    transform: scaleY(1);
+  }
+

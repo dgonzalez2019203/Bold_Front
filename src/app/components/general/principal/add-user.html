@@ -1,0 +1,44 @@
+<mat-nav-list>    
+    
+    <h2 class="titleBS mt-2"><b>Mantenimiento Usuarios</b></h2>
+    <div style="display:flex;">
+        <h3 class="subTitleBS" >AGREGAR <b> / Usuario</b></h3>               
+    </div>
+    <mat-divider class="mb-3"></mat-divider>
+
+    <div class="w-100">
+        <mat-form-field class="w-100" appearance="fill">
+            <mat-label>Username</mat-label>
+            <input type="text" matInput placeholder="Ex. Ejemplo" [(ngModel)]="user.username">
+        </mat-form-field>        
+    </div>
+    <div class="w-100">
+        <mat-form-field class="w-100" appearance="fill">
+            <mat-label>Firstname</mat-label>
+            <input type="text" matInput placeholder="Ex. Ejemplo" [(ngModel)]="user.firstName">
+        </mat-form-field>        
+    </div>
+    <div class="w-100">
+        <mat-form-field class="w-100" appearance="fill">
+            <mat-label>Lastname</mat-label>
+            <input type="text" matInput placeholder="Ex. Ejemplo" [(ngModel)]="user.lastName">
+        </mat-form-field>        
+    </div>
+    <div class="w-100">
+        <mat-form-field class="w-100" appearance="fill">
+            <mat-label>Address</mat-label>
+            <input type="text" matInput placeholder="Ex. Ejemplo" [(ngModel)]="user.address">
+        </mat-form-field>        
+    </div>
+
+    <div class="w-100 mt-2 mb-2">
+        <button mat-button (click)="close()" class="btn-dark mt-3 mr-2" tabindex="-1">
+            <mat-icon>close</mat-icon> Cerrar
+        </button>
+                
+        <button mat-raised-button color="primary" (click)="save()" tabindex="-1">
+            <mat-icon>add</mat-icon> Agregar
+        </button>
+    
+    </div>
+</mat-nav-list>

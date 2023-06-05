@@ -1,0 +1,36 @@
+<div *ngIf="loader.isLoading | async" class="loader">
+  <mat-progress-bar class="fix" style="height: 0.3rem;" mode="indeterminate"></mat-progress-bar>
+</div>
+<div class="example-container" id="todo" [class.example-is-mobile]="mobileQuery.matches" >
+  <mat-toolbar   class="example-toolbar colorPrimary p-0" style="position: relative; z-index: 99;">
+      
+      <div class="row m-0 w-100 h-100">
+        <div class=" h-100 d-flex" style="align-items: center;">
+          <button class="ml-2" style="background-color: #222d32; border-radius:0px !important; color: whitesmoke;"  mat-icon-button  (click)="snav.toggle()"><mat-icon>menu</mat-icon></button>
+          <h1 class="example-app-name pl-2">BOLD GUATEMALA</h1>
+        </div>
+        <span class="spacer"></span>            
+      </div>
+  </mat-toolbar>
+  <mat-sidenav-container class="example-sidenav-container" [style.marginTop.px]="mobileQuery.matches ? 0 : 0">
+    <mat-sidenav  #snav mode="side"   [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+    [mode]="(isHandset$ | async) ? 'over' : 'side'"   [fixedInViewport]="true" [opened]="!(isHandset$ | async)" class="print-hide example-sidenav"
+    opened="true">
+
+      <mat-nav-list>
+        <!-- Menu General -->
+          <a mat-list-item  style="margin-top: 5rem; padding-bottom: 3rem;" routerLink="" >
+            <mat-icon class="mr-2">query_stats</mat-icon>
+            <span>Vista Principal</span>
+          </a>
+
+      </mat-nav-list>      
+    </mat-sidenav>
+  
+    <mat-sidenav-content>
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>    
+  </mat-sidenav-container>
+</div>
+
+<app-footer></app-footer>

@@ -1,0 +1,68 @@
+.contPrincipal{
+    background: white;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);    
+}
+
+
+.cont{
+    background: white;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.3);
+    justify-content: center;
+    min-height: 100vh;
+    position: relative;
+    margin-right: 2rem;
+    margin-left: 2rem;
+    z-index: 2;
+}
+
+  
+.mat-form-field {
+    font-size: 12px;
+    width: 100%;
+}
+  
+.mat-elevation-z8{
+    overflow-x:auto
+}
+
+
+mat-row{
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+mat-row:hover {
+    background: #262626;
+}
+  
+tr:hover{
+    cursor: pointer;
+}
+    
+
+.help{
+    font: size 18px;
+    color: #676a6c;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.icon {
+    padding: 5px 10px 0 0;
+  }
+
+.title {
+margin-bottom: 1px !important;
+}
+
+.grid-title {
+    padding-top: 5px;
+    margin-bottom: 0 !important;
+}
+
+.pull-left{
+    margin-right: 10px;
+}

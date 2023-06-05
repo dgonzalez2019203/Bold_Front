@@ -1,0 +1,4002 @@
+[
+      {
+        "idicons" : 1,
+        "iconsDesc" : "10k"
+      },
+      {
+        "idicons" : 2,
+        "iconsDesc" : "10mp"
+      },
+      {
+        "idicons" : 3,
+        "iconsDesc" : "11mp"
+      },
+      {
+        "idicons" : 4,
+        "iconsDesc" : "12mp"
+      },
+      {
+        "idicons" : 5,
+        "iconsDesc" : "13mp"
+      },
+      {
+        "idicons" : 6,
+        "iconsDesc" : "14mp"
+      },
+      {
+        "idicons" : 7,
+        "iconsDesc" : "15mp"
+      },
+      {
+        "idicons" : 8,
+        "iconsDesc" : "16mp"
+      },
+      {
+        "idicons" : 9,
+        "iconsDesc" : "17mp"
+      },
+      {
+        "idicons" : 10,
+        "iconsDesc" : "18mp"
+      },
+      {
+        "idicons" : 11,
+        "iconsDesc" : "19mp"
+      },
+      {
+        "idicons" : 12,
+        "iconsDesc" : "1k"
+      },
+      {
+        "idicons" : 13,
+        "iconsDesc" : "1k_plus"
+      },
+      {
+        "idicons" : 14,
+        "iconsDesc" : "1x_mobiledata"
+      },
+      {
+        "idicons" : 15,
+        "iconsDesc" : "20mp"
+      },
+      {
+        "idicons" : 16,
+        "iconsDesc" : "21mp"
+      },
+      {
+        "idicons" : 17,
+        "iconsDesc" : "22mp"
+      },
+      {
+        "idicons" : 18,
+        "iconsDesc" : "23mp"
+      },
+      {
+        "idicons" : 19,
+        "iconsDesc" : "24mp"
+      },
+      {
+        "idicons" : 20,
+        "iconsDesc" : "2k"
+      },
+      {
+        "idicons" : 21,
+        "iconsDesc" : "2k_plus"
+      },
+      {
+        "idicons" : 22,
+        "iconsDesc" : "2mp"
+      },
+      {
+        "idicons" : 23,
+        "iconsDesc" : "30fps"
+      },
+      {
+        "idicons" : 24,
+        "iconsDesc" : "30fps_select"
+      },
+      {
+        "idicons" : 25,
+        "iconsDesc" : "360"
+      },
+      {
+        "idicons" : 26,
+        "iconsDesc" : "3d_rotation"
+      },
+      {
+        "idicons" : 27,
+        "iconsDesc" : "3g_mobiledata"
+      },
+      {
+        "idicons" : 28,
+        "iconsDesc" : "3k"
+      },
+      {
+        "idicons" : 29,
+        "iconsDesc" : "3k_plus"
+      },
+      {
+        "idicons" : 30,
+        "iconsDesc" : "3mp"
+      },
+      {
+        "idicons" : 31,
+        "iconsDesc" : "3p"
+      },
+      {
+        "idicons" : 32,
+        "iconsDesc" : "4g_mobiledata"
+      },
+      {
+        "idicons" : 33,
+        "iconsDesc" : "4g_plus_mobiledata"
+      },
+      {
+        "idicons" : 34,
+        "iconsDesc" : "4k"
+      },
+      {
+        "idicons" : 35,
+        "iconsDesc" : "4k_plus"
+      },
+      {
+        "idicons" : 36,
+        "iconsDesc" : "4mp"
+      },
+      {
+        "idicons" : 37,
+        "iconsDesc" : "5g"
+      },
+      {
+        "idicons" : 38,
+        "iconsDesc" : "5k"
+      },
+      {
+        "idicons" : 39,
+        "iconsDesc" : "5k_plus"
+      },
+      {
+        "idicons" : 40,
+        "iconsDesc" : "5mp"
+      },
+      {
+        "idicons" : 41,
+        "iconsDesc" : "60fps"
+      },
+      {
+        "idicons" : 42,
+        "iconsDesc" : "60fps_select"
+      },
+      {
+        "idicons" : 43,
+        "iconsDesc" : "6_ft_apart"
+      },
+      {
+        "idicons" : 44,
+        "iconsDesc" : "6k"
+      },
+      {
+        "idicons" : 45,
+        "iconsDesc" : "6k_plus"
+      },
+      {
+        "idicons" : 46,
+        "iconsDesc" : "6mp"
+      },
+      {
+        "idicons" : 47,
+        "iconsDesc" : "7k"
+      },
+      {
+        "idicons" : 48,
+        "iconsDesc" : "7k_plus"
+      },
+      {
+        "idicons" : 49,
+        "iconsDesc" : "7mp"
+      },
+      {
+        "idicons" : 50,
+        "iconsDesc" : "8k"
+      },
+      {
+        "idicons" : 51,
+        "iconsDesc" : "8k_plus"
+      },
+      {
+        "idicons" : 52,
+        "iconsDesc" : "8mp"
+      },
+      {
+        "idicons" : 53,
+        "iconsDesc" : "9k"
+      },
+      {
+        "idicons" : 54,
+        "iconsDesc" : "9k_plus"
+      },
+      {
+        "idicons" : 55,
+        "iconsDesc" : "9mp"
+      },
+      {
+        "idicons" : 56,
+        "iconsDesc" : "ac_unit"
+      },
+      {
+        "idicons" : 57,
+        "iconsDesc" : "access_alarm"
+      },
+      {
+        "idicons" : 58,
+        "iconsDesc" : "access_alarms"
+      },
+      {
+        "idicons" : 59,
+        "iconsDesc" : "access_time"
+      },
+      {
+        "idicons" : 60,
+        "iconsDesc" : "access_time_filled"
+      },
+      {
+        "idicons" : 61,
+        "iconsDesc" : "accessibility"
+      },
+      {
+        "idicons" : 62,
+        "iconsDesc" : "accessibility_new"
+      },
+      {
+        "idicons" : 63,
+        "iconsDesc" : "accessible"
+      },
+      {
+        "idicons" : 64,
+        "iconsDesc" : "accessible_forward"
+      },
+      {
+        "idicons" : 65,
+        "iconsDesc" : "account_balance"
+      },
+      {
+        "idicons" : 66,
+        "iconsDesc" : "account_balance_wallet"
+      },
+      {
+        "idicons" : 67,
+        "iconsDesc" : "account_box"
+      },
+      {
+        "idicons" : 68,
+        "iconsDesc" : "account_circle"
+      },
+      {
+        "idicons" : 69,
+        "iconsDesc" : "account_tree"
+      },
+      {
+        "idicons" : 70,
+        "iconsDesc" : "ad_units"
+      },
+      {
+        "idicons" : 71,
+        "iconsDesc" : "adb"
+      },
+      {
+        "idicons" : 72,
+        "iconsDesc" : "add"
+      },
+      {
+        "idicons" : 73,
+        "iconsDesc" : "add_a_photo"
+      },
+      {
+        "idicons" : 74,
+        "iconsDesc" : "add_alarm"
+      },
+      {
+        "idicons" : 75,
+        "iconsDesc" : "add_alert"
+      },
+      {
+        "idicons" : 76,
+        "iconsDesc" : "add_box"
+      },
+      {
+        "idicons" : 77,
+        "iconsDesc" : "add_business"
+      },
+      {
+        "idicons" : 78,
+        "iconsDesc" : "add_call"
+      },
+      {
+        "idicons" : 79,
+        "iconsDesc" : "add_chart"
+      },
+      {
+        "idicons" : 80,
+        "iconsDesc" : "add_circle"
+      },
+      {
+        "idicons" : 81,
+        "iconsDesc" : "add_circle_outline"
+      },
+      {
+        "idicons" : 82,
+        "iconsDesc" : "add_comment"
+      },
+      {
+        "idicons" : 83,
+        "iconsDesc" : "add_ic_call"
+      },
+      {
+        "idicons" : 84,
+        "iconsDesc" : "add_link"
+      },
+      {
+        "idicons" : 85,
+        "iconsDesc" : "add_location"
+      },
+      {
+        "idicons" : 86,
+        "iconsDesc" : "add_location_alt"
+      },
+      {
+        "idicons" : 87,
+        "iconsDesc" : "add_moderator"
+      },
+      {
+        "idicons" : 88,
+        "iconsDesc" : "add_photo_alternate"
+      },
+      {
+        "idicons" : 89,
+        "iconsDesc" : "add_reaction"
+      },
+      {
+        "idicons" : 90,
+        "iconsDesc" : "add_road"
+      },
+      {
+        "idicons" : 91,
+        "iconsDesc" : "add_shopping_cart"
+      },
+      {
+        "idicons" : 92,
+        "iconsDesc" : "add_task"
+      },
+      {
+        "idicons" : 93,
+        "iconsDesc" : "add_to_drive"
+      },
+      {
+        "idicons" : 94,
+        "iconsDesc" : "add_to_home_screen"
+      },
+      {
+        "idicons" : 95,
+        "iconsDesc" : "add_to_photos"
+      },
+      {
+        "idicons" : 96,
+        "iconsDesc" : "add_to_queue"
+      },
+      {
+        "idicons" : 97,
+        "iconsDesc" : "addchart"
+      },
+      {
+        "idicons" : 98,
+        "iconsDesc" : "adjust"
+      },
+      {
+        "idicons" : 99,
+        "iconsDesc" : "admin_panel_settings"
+      },
+      {
+        "idicons" : 100,
+        "iconsDesc" : "ads_click"
+      },
+      {
+        "idicons" : 101,
+        "iconsDesc" : "agriculture"
+      },
+      {
+        "idicons" : 102,
+        "iconsDesc" : "air"
+      },
+      {
+        "idicons" : 103,
+        "iconsDesc" : "airline_seat_flat"
+      },
+      {
+        "idicons" : 104,
+        "iconsDesc" : "airline_seat_flat_angled"
+      },
+      {
+        "idicons" : 105,
+        "iconsDesc" : "airline_seat_individual_suite"
+      },
+      {
+        "idicons" : 106,
+        "iconsDesc" : "airline_seat_legroom_extra"
+      },
+      {
+        "idicons" : 107,
+        "iconsDesc" : "airline_seat_legroom_normal"
+      },
+      {
+        "idicons" : 108,
+        "iconsDesc" : "airline_seat_legroom_reduced"
+      },
+      {
+        "idicons" : 109,
+        "iconsDesc" : "airline_seat_recline_extra"
+      },
+      {
+        "idicons" : 110,
+        "iconsDesc" : "airline_seat_recline_normal"
+      },
+      {
+        "idicons" : 111,
+        "iconsDesc" : "airplane_ticket"
+      },
+      {
+        "idicons" : 112,
+        "iconsDesc" : "airplanemode_active"
+      },
+      {
+        "idicons" : 113,
+        "iconsDesc" : "airplanemode_inactive"
+      },
+      {
+        "idicons" : 114,
+        "iconsDesc" : "airplanemode_off"
+      },
+      {
+        "idicons" : 115,
+        "iconsDesc" : "airplanemode_on"
+      },
+      {
+        "idicons" : 116,
+        "iconsDesc" : "airplay"
+      },
+      {
+        "idicons" : 117,
+        "iconsDesc" : "airport_shuttle"
+      },
+      {
+        "idicons" : 118,
+        "iconsDesc" : "alarm"
+      },
+      {
+        "idicons" : 119,
+        "iconsDesc" : "alarm_add"
+      },
+      {
+        "idicons" : 120,
+        "iconsDesc" : "alarm_off"
+      },
+      {
+        "idicons" : 121,
+        "iconsDesc" : "alarm_on"
+      },
+      {
+        "idicons" : 122,
+        "iconsDesc" : "album"
+      },
+      {
+        "idicons" : 123,
+        "iconsDesc" : "align_horizontal_center"
+      },
+      {
+        "idicons" : 124,
+        "iconsDesc" : "align_horizontal_left"
+      },
+      {
+        "idicons" : 125,
+        "iconsDesc" : "align_horizontal_right"
+      },
+      {
+        "idicons" : 126,
+        "iconsDesc" : "align_vertical_bottom"
+      },
+      {
+        "idicons" : 127,
+        "iconsDesc" : "align_vertical_center"
+      },
+      {
+        "idicons" : 128,
+        "iconsDesc" : "align_vertical_top"
+      },
+      {
+        "idicons" : 129,
+        "iconsDesc" : "all_inbox"
+      },
+      {
+        "idicons" : 130,
+        "iconsDesc" : "all_inclusive"
+      },
+      {
+        "idicons" : 131,
+        "iconsDesc" : "all_out"
+      },
+      {
+        "idicons" : 132,
+        "iconsDesc" : "alt_route"
+      },
+      {
+        "idicons" : 133,
+        "iconsDesc" : "alternate_email"
+      },
+      {
+        "idicons" : 134,
+        "iconsDesc" : "amp_stories"
+      },
+      {
+        "idicons" : 135,
+        "iconsDesc" : "analytics"
+      },
+      {
+        "idicons" : 136,
+        "iconsDesc" : "anchor"
+      },
+      {
+        "idicons" : 137,
+        "iconsDesc" : "android"
+      },
+      {
+        "idicons" : 138,
+        "iconsDesc" : "animation"
+      },
+      {
+        "idicons" : 139,
+        "iconsDesc" : "announcement"
+      },
+      {
+        "idicons" : 140,
+        "iconsDesc" : "aod"
+      },
+      {
+        "idicons" : 141,
+        "iconsDesc" : "apartment"
+      },
+      {
+        "idicons" : 142,
+        "iconsDesc" : "api"
+      },
+      {
+        "idicons" : 143,
+        "iconsDesc" : "app_blocking"
+      },
+      {
+        "idicons" : 144,
+        "iconsDesc" : "app_registration"
+      },
+      {
+        "idicons" : 145,
+        "iconsDesc" : "app_settings_alt"
+      },
+      {
+        "idicons" : 146,
+        "iconsDesc" : "approval"
+      },
+      {
+        "idicons" : 147,
+        "iconsDesc" : "apps"
+      },
+      {
+        "idicons" : 148,
+        "iconsDesc" : "architecture"
+      },
+      {
+        "idicons" : 149,
+        "iconsDesc" : "archive"
+      },
+      {
+        "idicons" : 150,
+        "iconsDesc" : "area_chart"
+      },
+      {
+        "idicons" : 151,
+        "iconsDesc" : "arrow_back"
+      },
+      {
+        "idicons" : 152,
+        "iconsDesc" : "arrow_back_ios"
+      },
+      {
+        "idicons" : 153,
+        "iconsDesc" : "arrow_back_ios_new"
+      },
+      {
+        "idicons" : 154,
+        "iconsDesc" : "arrow_circle_down"
+      },
+      {
+        "idicons" : 155,
+        "iconsDesc" : "arrow_circle_up"
+      },
+      {
+        "idicons" : 156,
+        "iconsDesc" : "arrow_downward"
+      },
+      {
+        "idicons" : 157,
+        "iconsDesc" : "arrow_drop_down"
+      },
+      {
+        "idicons" : 158,
+        "iconsDesc" : "arrow_drop_down_circle"
+      },
+      {
+        "idicons" : 159,
+        "iconsDesc" : "arrow_drop_up"
+      },
+      {
+        "idicons" : 160,
+        "iconsDesc" : "arrow_forward"
+      },
+      {
+        "idicons" : 161,
+        "iconsDesc" : "arrow_forward_ios"
+      },
+      {
+        "idicons" : 162,
+        "iconsDesc" : "arrow_left"
+      },
+      {
+        "idicons" : 163,
+        "iconsDesc" : "arrow_right"
+      },
+      {
+        "idicons" : 164,
+        "iconsDesc" : "arrow_right_alt"
+      },
+      {
+        "idicons" : 165,
+        "iconsDesc" : "arrow_upward"
+      },
+      {
+        "idicons" : 166,
+        "iconsDesc" : "art_track"
+      },
+      {
+        "idicons" : 167,
+        "iconsDesc" : "article"
+      },
+      {
+        "idicons" : 168,
+        "iconsDesc" : "aspect_ratio"
+      },
+      {
+        "idicons" : 169,
+        "iconsDesc" : "assessment"
+      },
+      {
+        "idicons" : 170,
+        "iconsDesc" : "assignment"
+      },
+      {
+        "idicons" : 171,
+        "iconsDesc" : "assignment_ind"
+      },
+      {
+        "idicons" : 172,
+        "iconsDesc" : "assignment_late"
+      },
+      {
+        "idicons" : 173,
+        "iconsDesc" : "assignment_return"
+      },
+      {
+        "idicons" : 174,
+        "iconsDesc" : "assignment_returned"
+      },
+      {
+        "idicons" : 175,
+        "iconsDesc" : "assignment_turned_in"
+      },
+      {
+        "idicons" : 176,
+        "iconsDesc" : "assistant"
+      },
+      {
+        "idicons" : 177,
+        "iconsDesc" : "assistant_direction"
+      },
+      {
+        "idicons" : 178,
+        "iconsDesc" : "assistant_navigation"
+      },
+      {
+        "idicons" : 179,
+        "iconsDesc" : "assistant_photo"
+      },
+      {
+        "idicons" : 180,
+        "iconsDesc" : "atm"
+      },
+      {
+        "idicons" : 181,
+        "iconsDesc" : "attach_email"
+      },
+      {
+        "idicons" : 182,
+        "iconsDesc" : "attach_file"
+      },
+      {
+        "idicons" : 183,
+        "iconsDesc" : "attach_money"
+      },
+      {
+        "idicons" : 184,
+        "iconsDesc" : "attachment"
+      },
+      {
+        "idicons" : 185,
+        "iconsDesc" : "attractions"
+      },
+      {
+        "idicons" : 186,
+        "iconsDesc" : "attribution"
+      },
+      {
+        "idicons" : 187,
+        "iconsDesc" : "audiotrack"
+      },
+      {
+        "idicons" : 188,
+        "iconsDesc" : "auto_awesome"
+      },
+      {
+        "idicons" : 189,
+        "iconsDesc" : "auto_awesome_mosaic"
+      },
+      {
+        "idicons" : 190,
+        "iconsDesc" : "auto_awesome_motion"
+      },
+      {
+        "idicons" : 191,
+        "iconsDesc" : "auto_delete"
+      },
+      {
+        "idicons" : 192,
+        "iconsDesc" : "auto_fix_high"
+      },
+      {
+        "idicons" : 193,
+        "iconsDesc" : "auto_fix_normal"
+      },
+      {
+        "idicons" : 194,
+        "iconsDesc" : "auto_fix_off"
+      },
+      {
+        "idicons" : 195,
+        "iconsDesc" : "auto_graph"
+      },
+      {
+        "idicons" : 196,
+        "iconsDesc" : "auto_stories"
+      },
+      {
+        "idicons" : 197,
+        "iconsDesc" : "autofps_select"
+      },
+      {
+        "idicons" : 198,
+        "iconsDesc" : "autorenew"
+      },
+      {
+        "idicons" : 199,
+        "iconsDesc" : "av_timer"
+      },
+      {
+        "idicons" : 200,
+        "iconsDesc" : "baby_changing_station"
+      },
+      {
+        "idicons" : 201,
+        "iconsDesc" : "back_hand"
+      },
+      {
+        "idicons" : 202,
+        "iconsDesc" : "backpack"
+      },
+      {
+        "idicons" : 203,
+        "iconsDesc" : "backspace"
+      },
+      {
+        "idicons" : 204,
+        "iconsDesc" : "backup"
+      },
+      {
+        "idicons" : 205,
+        "iconsDesc" : "backup_table"
+      },
+      {
+        "idicons" : 206,
+        "iconsDesc" : "badge"
+      },
+      {
+        "idicons" : 207,
+        "iconsDesc" : "bakery_dining"
+      },
+      {
+        "idicons" : 208,
+        "iconsDesc" : "balcony"
+      },
+      {
+        "idicons" : 209,
+        "iconsDesc" : "ballot"
+      },
+      {
+        "idicons" : 210,
+        "iconsDesc" : "bar_chart"
+      },
+      {
+        "idicons" : 211,
+        "iconsDesc" : "batch_prediction"
+      },
+      {
+        "idicons" : 212,
+        "iconsDesc" : "bathroom"
+      },
+      {
+        "idicons" : 213,
+        "iconsDesc" : "bathtub"
+      },
+      {
+        "idicons" : 214,
+        "iconsDesc" : "battery_alert"
+      },
+      {
+        "idicons" : 215,
+        "iconsDesc" : "battery_charging_full"
+      },
+      {
+        "idicons" : 216,
+        "iconsDesc" : "battery_full"
+      },
+      {
+        "idicons" : 217,
+        "iconsDesc" : "battery_saver"
+      },
+      {
+        "idicons" : 218,
+        "iconsDesc" : "battery_std"
+      },
+      {
+        "idicons" : 219,
+        "iconsDesc" : "battery_unknown"
+      },
+      {
+        "idicons" : 220,
+        "iconsDesc" : "beach_access"
+      },
+      {
+        "idicons" : 221,
+        "iconsDesc" : "bed"
+      },
+      {
+        "idicons" : 222,
+        "iconsDesc" : "bedroom_baby"
+      },
+      {
+        "idicons" : 223,
+        "iconsDesc" : "bedroom_child"
+      },
+      {
+        "idicons" : 224,
+        "iconsDesc" : "bedroom_parent"
+      },
+      {
+        "idicons" : 225,
+        "iconsDesc" : "bedtime"
+      },
+      {
+        "idicons" : 226,
+        "iconsDesc" : "beenhere"
+      },
+      {
+        "idicons" : 227,
+        "iconsDesc" : "bento"
+      },
+      {
+        "idicons" : 228,
+        "iconsDesc" : "bike_scooter"
+      },
+      {
+        "idicons" : 229,
+        "iconsDesc" : "biotech"
+      },
+      {
+        "idicons" : 230,
+        "iconsDesc" : "blender"
+      },
+      {
+        "idicons" : 231,
+        "iconsDesc" : "block"
+      },
+      {
+        "idicons" : 232,
+        "iconsDesc" : "block_flipped"
+      },
+      {
+        "idicons" : 233,
+        "iconsDesc" : "bloodtype"
+      },
+      {
+        "idicons" : 234,
+        "iconsDesc" : "bluetooth"
+      },
+      {
+        "idicons" : 235,
+        "iconsDesc" : "bluetooth_audio"
+      },
+      {
+        "idicons" : 236,
+        "iconsDesc" : "bluetooth_connected"
+      },
+      {
+        "idicons" : 237,
+        "iconsDesc" : "bluetooth_disabled"
+      },
+      {
+        "idicons" : 238,
+        "iconsDesc" : "bluetooth_drive"
+      },
+      {
+        "idicons" : 239,
+        "iconsDesc" : "bluetooth_searching"
+      },
+      {
+        "idicons" : 240,
+        "iconsDesc" : "blur_circular"
+      },
+      {
+        "idicons" : 241,
+        "iconsDesc" : "blur_linear"
+      },
+      {
+        "idicons" : 242,
+        "iconsDesc" : "blur_off"
+      },
+      {
+        "idicons" : 243,
+        "iconsDesc" : "blur_on"
+      },
+      {
+        "idicons" : 244,
+        "iconsDesc" : "bolt"
+      },
+      {
+        "idicons" : 245,
+        "iconsDesc" : "book"
+      },
+      {
+        "idicons" : 246,
+        "iconsDesc" : "book_online"
+      },
+      {
+        "idicons" : 247,
+        "iconsDesc" : "bookmark"
+      },
+      {
+        "idicons" : 248,
+        "iconsDesc" : "bookmark_add"
+      },
+      {
+        "idicons" : 249,
+        "iconsDesc" : "bookmark_added"
+      },
+      {
+        "idicons" : 250,
+        "iconsDesc" : "bookmark_border"
+      },
+      {
+        "idicons" : 251,
+        "iconsDesc" : "bookmark_outline"
+      },
+      {
+        "idicons" : 252,
+        "iconsDesc" : "bookmark_remove"
+      },
+      {
+        "idicons" : 253,
+        "iconsDesc" : "bookmarks"
+      },
+      {
+        "idicons" : 254,
+        "iconsDesc" : "border_all"
+      },
+      {
+        "idicons" : 255,
+        "iconsDesc" : "border_bottom"
+      },
+      {
+        "idicons" : 256,
+        "iconsDesc" : "border_clear"
+      },
+      {
+        "idicons" : 257,
+        "iconsDesc" : "border_color"
+      },
+      {
+        "idicons" : 258,
+        "iconsDesc" : "border_horizontal"
+      },
+      {
+        "idicons" : 259,
+        "iconsDesc" : "border_inner"
+      },
+      {
+        "idicons" : 260,
+        "iconsDesc" : "border_left"
+      },
+      {
+        "idicons" : 261,
+        "iconsDesc" : "border_outer"
+      },
+      {
+        "idicons" : 262,
+        "iconsDesc" : "border_right"
+      },
+      {
+        "idicons" : 263,
+        "iconsDesc" : "border_style"
+      },
+      {
+        "idicons" : 264,
+        "iconsDesc" : "border_top"
+      },
+      {
+        "idicons" : 265,
+        "iconsDesc" : "border_vertical"
+      },
+      {
+        "idicons" : 266,
+        "iconsDesc" : "branding_watermark"
+      },
+      {
+        "idicons" : 267,
+        "iconsDesc" : "breakfast_dining"
+      },
+      {
+        "idicons" : 268,
+        "iconsDesc" : "brightness_1"
+      },
+      {
+        "idicons" : 269,
+        "iconsDesc" : "brightness_2"
+      },
+      {
+        "idicons" : 270,
+        "iconsDesc" : "brightness_3"
+      },
+      {
+        "idicons" : 271,
+        "iconsDesc" : "brightness_4"
+      },
+      {
+        "idicons" : 272,
+        "iconsDesc" : "brightness_5"
+      },
+      {
+        "idicons" : 273,
+        "iconsDesc" : "brightness_6"
+      },
+      {
+        "idicons" : 274,
+        "iconsDesc" : "brightness_7"
+      },
+      {
+        "idicons" : 275,
+        "iconsDesc" : "brightness_auto"
+      },
+      {
+        "idicons" : 276,
+        "iconsDesc" : "brightness_high"
+      },
+      {
+        "idicons" : 277,
+        "iconsDesc" : "brightness_low"
+      },
+      {
+        "idicons" : 278,
+        "iconsDesc" : "brightness_medium"
+      },
+      {
+        "idicons" : 279,
+        "iconsDesc" : "broken_image"
+      },
+      {
+        "idicons" : 280,
+        "iconsDesc" : "browser_not_supported"
+      },
+      {
+        "idicons" : 281,
+        "iconsDesc" : "brunch_dining"
+      },
+      {
+        "idicons" : 282,
+        "iconsDesc" : "brush"
+      },
+      {
+        "idicons" : 283,
+        "iconsDesc" : "bubble_chart"
+      },
+      {
+        "idicons" : 284,
+        "iconsDesc" : "bug_report"
+      },
+      {
+        "idicons" : 285,
+        "iconsDesc" : "build"
+      },
+      {
+        "idicons" : 286,
+        "iconsDesc" : "build_circle"
+      },
+      {
+        "idicons" : 287,
+        "iconsDesc" : "bungalow"
+      },
+      {
+        "idicons" : 288,
+        "iconsDesc" : "burst_mode"
+      },
+      {
+        "idicons" : 289,
+        "iconsDesc" : "bus_alert"
+      },
+      {
+        "idicons" : 290,
+        "iconsDesc" : "business"
+      },
+      {
+        "idicons" : 291,
+        "iconsDesc" : "business_center"
+      },
+      {
+        "idicons" : 292,
+        "iconsDesc" : "cabin"
+      },
+      {
+        "idicons" : 293,
+        "iconsDesc" : "cable"
+      },
+      {
+        "idicons" : 294,
+        "iconsDesc" : "cached"
+      },
+      {
+        "idicons" : 295,
+        "iconsDesc" : "cake"
+      },
+      {
+        "idicons" : 296,
+        "iconsDesc" : "calculate"
+      },
+      {
+        "idicons" : 297,
+        "iconsDesc" : "calendar_today"
+      },
+      {
+        "idicons" : 298,
+        "iconsDesc" : "calendar_view_day"
+      },
+      {
+        "idicons" : 299,
+        "iconsDesc" : "calendar_view_month"
+      },
+      {
+        "idicons" : 300,
+        "iconsDesc" : "calendar_view_week"
+      },
+      {
+        "idicons" : 301,
+        "iconsDesc" : "call"
+      },
+      {
+        "idicons" : 302,
+        "iconsDesc" : "call_end"
+      },
+      {
+        "idicons" : 303,
+        "iconsDesc" : "call_made"
+      },
+      {
+        "idicons" : 304,
+        "iconsDesc" : "call_merge"
+      },
+      {
+        "idicons" : 305,
+        "iconsDesc" : "call_missed"
+      },
+      {
+        "idicons" : 306,
+        "iconsDesc" : "call_missed_outgoing"
+      },
+      {
+        "idicons" : 307,
+        "iconsDesc" : "call_received"
+      },
+      {
+        "idicons" : 308,
+        "iconsDesc" : "call_split"
+      },
+      {
+        "idicons" : 309,
+        "iconsDesc" : "call_to_action"
+      },
+      {
+        "idicons" : 310,
+        "iconsDesc" : "camera"
+      },
+      {
+        "idicons" : 311,
+        "iconsDesc" : "camera_alt"
+      },
+      {
+        "idicons" : 312,
+        "iconsDesc" : "camera_enhance"
+      },
+      {
+        "idicons" : 313,
+        "iconsDesc" : "camera_front"
+      },
+      {
+        "idicons" : 314,
+        "iconsDesc" : "camera_indoor"
+      },
+      {
+        "idicons" : 315,
+        "iconsDesc" : "camera_outdoor"
+      },
+      {
+        "idicons" : 316,
+        "iconsDesc" : "camera_rear"
+      },
+      {
+        "idicons" : 317,
+        "iconsDesc" : "camera_roll"
+      },
+      {
+        "idicons" : 318,
+        "iconsDesc" : "cameraswitch"
+      },
+      {
+        "idicons" : 319,
+        "iconsDesc" : "campaign"
+      },
+      {
+        "idicons" : 320,
+        "iconsDesc" : "cancel"
+      },
+      {
+        "idicons" : 321,
+        "iconsDesc" : "cancel_presentation"
+      },
+      {
+        "idicons" : 322,
+        "iconsDesc" : "cancel_schedule_send"
+      },
+      {
+        "idicons" : 323,
+        "iconsDesc" : "car_rental"
+      },
+      {
+        "idicons" : 324,
+        "iconsDesc" : "car_repair"
+      },
+      {
+        "idicons" : 325,
+        "iconsDesc" : "card_giftcard"
+      },
+      {
+        "idicons" : 326,
+        "iconsDesc" : "card_membership"
+      },
+      {
+        "idicons" : 327,
+        "iconsDesc" : "card_travel"
+      },
+      {
+        "idicons" : 328,
+        "iconsDesc" : "carpenter"
+      },
+      {
+        "idicons" : 329,
+        "iconsDesc" : "cases"
+      },
+      {
+        "idicons" : 330,
+        "iconsDesc" : "casino"
+      },
+      {
+        "idicons" : 331,
+        "iconsDesc" : "cast"
+      },
+      {
+        "idicons" : 332,
+        "iconsDesc" : "cast_connected"
+      },
+      {
+        "idicons" : 333,
+        "iconsDesc" : "cast_for_education"
+      },
+      {
+        "idicons" : 334,
+        "iconsDesc" : "catching_pokemon"
+      },
+      {
+        "idicons" : 335,
+        "iconsDesc" : "category"
+      },
+      {
+        "idicons" : 336,
+        "iconsDesc" : "celebration"
+      },
+      {
+        "idicons" : 337,
+        "iconsDesc" : "cell_wifi"
+      },
+      {
+        "idicons" : 338,
+        "iconsDesc" : "center_focus_strong"
+      },
+      {
+        "idicons" : 339,
+        "iconsDesc" : "center_focus_weak"
+      },
+      {
+        "idicons" : 340,
+        "iconsDesc" : "chair"
+      },
+      {
+        "idicons" : 341,
+        "iconsDesc" : "chair_alt"
+      },
+      {
+        "idicons" : 342,
+        "iconsDesc" : "chalet"
+      },
+      {
+        "idicons" : 343,
+        "iconsDesc" : "change_circle"
+      },
+      {
+        "idicons" : 344,
+        "iconsDesc" : "change_history"
+      },
+      {
+        "idicons" : 345,
+        "iconsDesc" : "charging_station"
+      },
+      {
+        "idicons" : 346,
+        "iconsDesc" : "chat"
+      },
+      {
+        "idicons" : 347,
+        "iconsDesc" : "chat_bubble"
+      },
+      {
+        "idicons" : 348,
+        "iconsDesc" : "chat_bubble_outline"
+      },
+      {
+        "idicons" : 349,
+        "iconsDesc" : "check"
+      },
+      {
+        "idicons" : 350,
+        "iconsDesc" : "check_box"
+      },
+      {
+        "idicons" : 351,
+        "iconsDesc" : "check_box_outline_blank"
+      },
+      {
+        "idicons" : 352,
+        "iconsDesc" : "check_circle"
+      },
+      {
+        "idicons" : 353,
+        "iconsDesc" : "check_circle_outline"
+      },
+      {
+        "idicons" : 354,
+        "iconsDesc" : "checklist"
+      },
+      {
+        "idicons" : 355,
+        "iconsDesc" : "checklist_rtl"
+      },
+      {
+        "idicons" : 356,
+        "iconsDesc" : "checkroom"
+      },
+      {
+        "idicons" : 357,
+        "iconsDesc" : "chevron_left"
+      },
+      {
+        "idicons" : 358,
+        "iconsDesc" : "chevron_right"
+      },
+      {
+        "idicons" : 359,
+        "iconsDesc" : "child_care"
+      },
+      {
+        "idicons" : 360,
+        "iconsDesc" : "child_friendly"
+      },
+      {
+        "idicons" : 361,
+        "iconsDesc" : "chrome_reader_mode"
+      },
+      {
+        "idicons" : 362,
+        "iconsDesc" : "circle"
+      },
+      {
+        "idicons" : 363,
+        "iconsDesc" : "circle_notifications"
+      },
+      {
+        "idicons" : 364,
+        "iconsDesc" : "class"
+      },
+      {
+        "idicons" : 365,
+        "iconsDesc" : "clean_hands"
+      },
+      {
+        "idicons" : 366,
+        "iconsDesc" : "cleaning_services"
+      },
+      {
+        "idicons" : 367,
+        "iconsDesc" : "clear"
+      },
+      {
+        "idicons" : 368,
+        "iconsDesc" : "clear_all"
+      },
+      {
+        "idicons" : 369,
+        "iconsDesc" : "close"
+      },
+      {
+        "idicons" : 370,
+        "iconsDesc" : "close_fullscreen"
+      },
+      {
+        "idicons" : 371,
+        "iconsDesc" : "closed_caption"
+      },
+      {
+        "idicons" : 372,
+        "iconsDesc" : "closed_caption_disabled"
+      },
+      {
+        "idicons" : 373,
+        "iconsDesc" : "closed_caption_off"
+      },
+      {
+        "idicons" : 374,
+        "iconsDesc" : "cloud"
+      },
+      {
+        "idicons" : 375,
+        "iconsDesc" : "cloud_circle"
+      },
+      {
+        "idicons" : 376,
+        "iconsDesc" : "cloud_done"
+      },
+      {
+        "idicons" : 377,
+        "iconsDesc" : "cloud_download"
+      },
+      {
+        "idicons" : 378,
+        "iconsDesc" : "cloud_off"
+      },
+      {
+        "idicons" : 379,
+        "iconsDesc" : "cloud_queue"
+      },
+      {
+        "idicons" : 380,
+        "iconsDesc" : "cloud_upload"
+      },
+      {
+        "idicons" : 381,
+        "iconsDesc" : "code"
+      },
+      {
+        "idicons" : 382,
+        "iconsDesc" : "code_off"
+      },
+      {
+        "idicons" : 383,
+        "iconsDesc" : "coffee"
+      },
+      {
+        "idicons" : 384,
+        "iconsDesc" : "coffee_maker"
+      },
+      {
+        "idicons" : 385,
+        "iconsDesc" : "collections"
+      },
+      {
+        "idicons" : 386,
+        "iconsDesc" : "collections_bookmark"
+      },
+      {
+        "idicons" : 387,
+        "iconsDesc" : "color_lens"
+      },
+      {
+        "idicons" : 388,
+        "iconsDesc" : "colorize"
+      },
+      {
+        "idicons" : 389,
+        "iconsDesc" : "comment"
+      },
+      {
+        "idicons" : 390,
+        "iconsDesc" : "comment_bank"
+      },
+      {
+        "idicons" : 391,
+        "iconsDesc" : "commute"
+      },
+      {
+        "idicons" : 392,
+        "iconsDesc" : "compare"
+      },
+      {
+        "idicons" : 393,
+        "iconsDesc" : "compare_arrows"
+      },
+      {
+        "idicons" : 394,
+        "iconsDesc" : "compass_calibration"
+      },
+      {
+        "idicons" : 395,
+        "iconsDesc" : "compost"
+      },
+      {
+        "idicons" : 396,
+        "iconsDesc" : "compress"
+      },
+      {
+        "idicons" : 397,
+        "iconsDesc" : "computer"
+      },
+      {
+        "idicons" : 398,
+        "iconsDesc" : "confirmation_num"
+      },
+      {
+        "idicons" : 399,
+        "iconsDesc" : "confirmation_number"
+      },
+      {
+        "idicons" : 400,
+        "iconsDesc" : "connect_without_contact"
+      },
+      {
+        "idicons" : 401,
+        "iconsDesc" : "connected_tv"
+      },
+      {
+        "idicons" : 402,
+        "iconsDesc" : "construction"
+      },
+      {
+        "idicons" : 403,
+        "iconsDesc" : "contact_mail"
+      },
+      {
+        "idicons" : 404,
+        "iconsDesc" : "contact_page"
+      },
+      {
+        "idicons" : 405,
+        "iconsDesc" : "contact_phone"
+      },
+      {
+        "idicons" : 406,
+        "iconsDesc" : "contact_support"
+      },
+      {
+        "idicons" : 407,
+        "iconsDesc" : "contactless"
+      },
+      {
+        "idicons" : 408,
+        "iconsDesc" : "contacts"
+      },
+      {
+        "idicons" : 409,
+        "iconsDesc" : "content_copy"
+      },
+      {
+        "idicons" : 410,
+        "iconsDesc" : "content_cut"
+      },
+      {
+        "idicons" : 411,
+        "iconsDesc" : "content_paste"
+      },
+      {
+        "idicons" : 412,
+        "iconsDesc" : "content_paste_off"
+      },
+      {
+        "idicons" : 413,
+        "iconsDesc" : "control_camera"
+      },
+      {
+        "idicons" : 414,
+        "iconsDesc" : "control_point"
+      },
+      {
+        "idicons" : 415,
+        "iconsDesc" : "control_point_duplicate"
+      },
+      {
+        "idicons" : 416,
+        "iconsDesc" : "copy_all"
+      },
+      {
+        "idicons" : 417,
+        "iconsDesc" : "copyright"
+      },
+      {
+        "idicons" : 418,
+        "iconsDesc" : "coronavirus"
+      },
+      {
+        "idicons" : 419,
+        "iconsDesc" : "corporate_fare"
+      },
+      {
+        "idicons" : 420,
+        "iconsDesc" : "cottage"
+      },
+      {
+        "idicons" : 421,
+        "iconsDesc" : "countertops"
+      },
+      {
+        "idicons" : 422,
+        "iconsDesc" : "create"
+      },
+      {
+        "idicons" : 423,
+        "iconsDesc" : "create_new_folder"
+      },
+      {
+        "idicons" : 424,
+        "iconsDesc" : "credit_card"
+      },
+      {
+        "idicons" : 425,
+        "iconsDesc" : "credit_card_off"
+      },
+      {
+        "idicons" : 426,
+        "iconsDesc" : "credit_score"
+      },
+      {
+        "idicons" : 427,
+        "iconsDesc" : "crib"
+      },
+      {
+        "idicons" : 428,
+        "iconsDesc" : "crop"
+      },
+      {
+        "idicons" : 429,
+        "iconsDesc" : "crop_16_9"
+      },
+      {
+        "idicons" : 430,
+        "iconsDesc" : "crop_3_2"
+      },
+      {
+        "idicons" : 431,
+        "iconsDesc" : "crop_5_4"
+      },
+      {
+        "idicons" : 432,
+        "iconsDesc" : "crop_7_5"
+      },
+      {
+        "idicons" : 433,
+        "iconsDesc" : "crop_din"
+      },
+      {
+        "idicons" : 434,
+        "iconsDesc" : "crop_free"
+      },
+      {
+        "idicons" : 435,
+        "iconsDesc" : "crop_landscape"
+      },
+      {
+        "idicons" : 436,
+        "iconsDesc" : "crop_original"
+      },
+      {
+        "idicons" : 437,
+        "iconsDesc" : "crop_portrait"
+      },
+      {
+        "idicons" : 438,
+        "iconsDesc" : "crop_rotate"
+      },
+      {
+        "idicons" : 439,
+        "iconsDesc" : "crop_square"
+      },
+      {
+        "idicons" : 440,
+        "iconsDesc" : "cruelty_free"
+      },
+      {
+        "idicons" : 441,
+        "iconsDesc" : "dangerous"
+      },
+      {
+        "idicons" : 442,
+        "iconsDesc" : "dark_mode"
+      },
+      {
+        "idicons" : 443,
+        "iconsDesc" : "dashboard"
+      },
+      {
+        "idicons" : 444,
+        "iconsDesc" : "dashboard_customize"
+      },
+      {
+        "idicons" : 445,
+        "iconsDesc" : "data_exploration"
+      },
+      {
+        "idicons" : 446,
+        "iconsDesc" : "data_saver_off"
+      },
+      {
+        "idicons" : 447,
+        "iconsDesc" : "data_saver_on"
+      },
+      {
+        "idicons" : 448,
+        "iconsDesc" : "data_usage"
+      },
+      {
+        "idicons" : 449,
+        "iconsDesc" : "date_range"
+      },
+      {
+        "idicons" : 450,
+        "iconsDesc" : "deck"
+      },
+      {
+        "idicons" : 451,
+        "iconsDesc" : "dehaze"
+      },
+      {
+        "idicons" : 452,
+        "iconsDesc" : "delete"
+      },
+      {
+        "idicons" : 453,
+        "iconsDesc" : "delete_forever"
+      },
+      {
+        "idicons" : 454,
+        "iconsDesc" : "delete_outline"
+      },
+      {
+        "idicons" : 455,
+        "iconsDesc" : "delete_sweep"
+      },
+      {
+        "idicons" : 456,
+        "iconsDesc" : "delivery_dining"
+      },
+      {
+        "idicons" : 457,
+        "iconsDesc" : "departure_board"
+      },
+      {
+        "idicons" : 458,
+        "iconsDesc" : "description"
+      },
+      {
+        "idicons" : 459,
+        "iconsDesc" : "design_services"
+      },
+      {
+        "idicons" : 460,
+        "iconsDesc" : "desktop_access_disabled"
+      },
+      {
+        "idicons" : 461,
+        "iconsDesc" : "desktop_mac"
+      },
+      {
+        "idicons" : 462,
+        "iconsDesc" : "desktop_windows"
+      },
+      {
+        "idicons" : 463,
+        "iconsDesc" : "details"
+      },
+      {
+        "idicons" : 464,
+        "iconsDesc" : "developer_board"
+      },
+      {
+        "idicons" : 465,
+        "iconsDesc" : "developer_board_off"
+      },
+      {
+        "idicons" : 466,
+        "iconsDesc" : "developer_mode"
+      },
+      {
+        "idicons" : 467,
+        "iconsDesc" : "device_hub"
+      },
+      {
+        "idicons" : 468,
+        "iconsDesc" : "device_thermostat"
+      },
+      {
+        "idicons" : 469,
+        "iconsDesc" : "device_unknown"
+      },
+      {
+        "idicons" : 470,
+        "iconsDesc" : "devices"
+      },
+      {
+        "idicons" : 471,
+        "iconsDesc" : "devices_other"
+      },
+      {
+        "idicons" : 472,
+        "iconsDesc" : "dialer_sip"
+      },
+      {
+        "idicons" : 473,
+        "iconsDesc" : "dialpad"
+      },
+      {
+        "idicons" : 474,
+        "iconsDesc" : "dining"
+      },
+      {
+        "idicons" : 475,
+        "iconsDesc" : "dinner_dining"
+      },
+      {
+        "idicons" : 476,
+        "iconsDesc" : "directions"
+      },
+      {
+        "idicons" : 477,
+        "iconsDesc" : "directions_bike"
+      },
+      {
+        "idicons" : 478,
+        "iconsDesc" : "directions_boat"
+      },
+      {
+        "idicons" : 479,
+        "iconsDesc" : "directions_boat_filled"
+      },
+      {
+        "idicons" : 480,
+        "iconsDesc" : "directions_bus"
+      },
+      {
+        "idicons" : 481,
+        "iconsDesc" : "directions_bus_filled"
+      },
+      {
+        "idicons" : 482,
+        "iconsDesc" : "directions_car"
+      },
+      {
+        "idicons" : 483,
+        "iconsDesc" : "directions_car_filled"
+      },
+      {
+        "idicons" : 484,
+        "iconsDesc" : "directions_ferry"
+      },
+      {
+        "idicons" : 485,
+        "iconsDesc" : "directions_off"
+      },
+      {
+        "idicons" : 486,
+        "iconsDesc" : "directions_railway"
+      },
+      {
+        "idicons" : 487,
+        "iconsDesc" : "directions_railway_filled"
+      },
+      {
+        "idicons" : 488,
+        "iconsDesc" : "directions_run"
+      },
+      {
+        "idicons" : 489,
+        "iconsDesc" : "directions_subway"
+      },
+      {
+        "idicons" : 490,
+        "iconsDesc" : "directions_subway_filled"
+      },
+      {
+        "idicons" : 491,
+        "iconsDesc" : "directions_train"
+      },
+      {
+        "idicons" : 492,
+        "iconsDesc" : "directions_transit"
+      },
+      {
+        "idicons" : 493,
+        "iconsDesc" : "directions_transit_filled"
+      },
+      {
+        "idicons" : 494,
+        "iconsDesc" : "directions_walk"
+      },
+      {
+        "idicons" : 495,
+        "iconsDesc" : "dirty_lens"
+      },
+      {
+        "idicons" : 496,
+        "iconsDesc" : "disabled_by_default"
+      },
+      {
+        "idicons" : 497,
+        "iconsDesc" : "disabled_visible"
+      },
+      {
+        "idicons" : 498,
+        "iconsDesc" : "disc_full"
+      },
+      {
+        "idicons" : 499,
+        "iconsDesc" : "dnd_forwardslash"
+      },
+      {
+        "idicons" : 500,
+        "iconsDesc" : "dns"
+      },
+      {
+        "idicons" : 501,
+        "iconsDesc" : "do_disturb"
+      },
+      {
+        "idicons" : 502,
+        "iconsDesc" : "do_disturb_alt"
+      },
+      {
+        "idicons" : 503,
+        "iconsDesc" : "do_disturb_off"
+      },
+      {
+        "idicons" : 504,
+        "iconsDesc" : "do_disturb_on"
+      },
+      {
+        "idicons" : 505,
+        "iconsDesc" : "do_not_disturb"
+      },
+      {
+        "idicons" : 506,
+        "iconsDesc" : "do_not_disturb_alt"
+      },
+      {
+        "idicons" : 507,
+        "iconsDesc" : "do_not_disturb_off"
+      },
+      {
+        "idicons" : 508,
+        "iconsDesc" : "do_not_disturb_on"
+      },
+      {
+        "idicons" : 509,
+        "iconsDesc" : "do_not_disturb_on_total_silence"
+      },
+      {
+        "idicons" : 510,
+        "iconsDesc" : "do_not_step"
+      },
+      {
+        "idicons" : 511,
+        "iconsDesc" : "do_not_touch"
+      },
+      {
+        "idicons" : 512,
+        "iconsDesc" : "dock"
+      },
+      {
+        "idicons" : 513,
+        "iconsDesc" : "document_scanner"
+      },
+      {
+        "idicons" : 514,
+        "iconsDesc" : "domain"
+      },
+      {
+        "idicons" : 515,
+        "iconsDesc" : "domain_disabled"
+      },
+      {
+        "idicons" : 516,
+        "iconsDesc" : "domain_verification"
+      },
+      {
+        "idicons" : 517,
+        "iconsDesc" : "done"
+      },
+      {
+        "idicons" : 518,
+        "iconsDesc" : "done_all"
+      },
+      {
+        "idicons" : 519,
+        "iconsDesc" : "done_outline"
+      },
+      {
+        "idicons" : 520,
+        "iconsDesc" : "donut_large"
+      },
+      {
+        "idicons" : 521,
+        "iconsDesc" : "donut_small"
+      },
+      {
+        "idicons" : 522,
+        "iconsDesc" : "door_back"
+      },
+      {
+        "idicons" : 523,
+        "iconsDesc" : "door_front"
+      },
+      {
+        "idicons" : 524,
+        "iconsDesc" : "door_sliding"
+      },
+      {
+        "idicons" : 525,
+        "iconsDesc" : "doorbell"
+      },
+      {
+        "idicons" : 526,
+        "iconsDesc" : "double_arrow"
+      },
+      {
+        "idicons" : 527,
+        "iconsDesc" : "downhill_skiing"
+      },
+      {
+        "idicons" : 528,
+        "iconsDesc" : "download"
+      },
+      {
+        "idicons" : 529,
+        "iconsDesc" : "download_done"
+      },
+      {
+        "idicons" : 530,
+        "iconsDesc" : "download_for_offline"
+      },
+      {
+        "idicons" : 531,
+        "iconsDesc" : "downloading"
+      },
+      {
+        "idicons" : 532,
+        "iconsDesc" : "drafts"
+      },
+      {
+        "idicons" : 533,
+        "iconsDesc" : "drag_handle"
+      },
+      {
+        "idicons" : 534,
+        "iconsDesc" : "drag_indicator"
+      },
+      {
+        "idicons" : 535,
+        "iconsDesc" : "draw"
+      },
+      {
+        "idicons" : 536,
+        "iconsDesc" : "drive_eta"
+      },
+      {
+        "idicons" : 537,
+        "iconsDesc" : "drive_file_move"
+      },
+      {
+        "idicons" : 538,
+        "iconsDesc" : "drive_file_move_outline"
+      },
+      {
+        "idicons" : 539,
+        "iconsDesc" : "drive_file_move_rtl"
+      },
+      {
+        "idicons" : 540,
+        "iconsDesc" : "drive_file_rename_outline"
+      },
+      {
+        "idicons" : 541,
+        "iconsDesc" : "drive_folder_upload"
+      },
+      {
+        "idicons" : 542,
+        "iconsDesc" : "dry"
+      },
+      {
+        "idicons" : 543,
+        "iconsDesc" : "dry_cleaning"
+      },
+      {
+        "idicons" : 544,
+        "iconsDesc" : "duo"
+      },
+      {
+        "idicons" : 545,
+        "iconsDesc" : "dvr"
+      },
+      {
+        "idicons" : 546,
+        "iconsDesc" : "dynamic_feed"
+      },
+      {
+        "idicons" : 547,
+        "iconsDesc" : "dynamic_form"
+      },
+      {
+        "idicons" : 548,
+        "iconsDesc" : "e_mobiledata"
+      },
+      {
+        "idicons" : 549,
+        "iconsDesc" : "earbuds"
+      },
+      {
+        "idicons" : 550,
+        "iconsDesc" : "earbuds_battery"
+      },
+      {
+        "idicons" : 551,
+        "iconsDesc" : "east"
+      },
+      {
+        "idicons" : 552,
+        "iconsDesc" : "eco"
+      },
+      {
+        "idicons" : 553,
+        "iconsDesc" : "edgesensor_high"
+      },
+      {
+        "idicons" : 554,
+        "iconsDesc" : "edgesensor_low"
+      },
+      {
+        "idicons" : 555,
+        "iconsDesc" : "edit"
+      },
+      {
+        "idicons" : 556,
+        "iconsDesc" : "edit_attributes"
+      },
+      {
+        "idicons" : 557,
+        "iconsDesc" : "edit_calendar"
+      },
+      {
+        "idicons" : 558,
+        "iconsDesc" : "edit_location"
+      },
+      {
+        "idicons" : 559,
+        "iconsDesc" : "edit_location_alt"
+      },
+      {
+        "idicons" : 560,
+        "iconsDesc" : "edit_note"
+      },
+      {
+        "idicons" : 561,
+        "iconsDesc" : "edit_notifications"
+      },
+      {
+        "idicons" : 562,
+        "iconsDesc" : "edit_off"
+      },
+      {
+        "idicons" : 563,
+        "iconsDesc" : "edit_road"
+      },
+      {
+        "idicons" : 564,
+        "iconsDesc" : "eject"
+      },
+      {
+        "idicons" : 565,
+        "iconsDesc" : "elderly"
+      },
+      {
+        "idicons" : 566,
+        "iconsDesc" : "electric_bike"
+      },
+      {
+        "idicons" : 567,
+        "iconsDesc" : "electric_car"
+      },
+      {
+        "idicons" : 568,
+        "iconsDesc" : "electric_moped"
+      },
+      {
+        "idicons" : 569,
+        "iconsDesc" : "electric_rickshaw"
+      },
+      {
+        "idicons" : 570,
+        "iconsDesc" : "electric_scooter"
+      },
+      {
+        "idicons" : 571,
+        "iconsDesc" : "electrical_services"
+      },
+      {
+        "idicons" : 572,
+        "iconsDesc" : "elevator"
+      },
+      {
+        "idicons" : 573,
+        "iconsDesc" : "email"
+      },
+      {
+        "idicons" : 574,
+        "iconsDesc" : "emergency"
+      },
+      {
+        "idicons" : 575,
+        "iconsDesc" : "emoji_emotions"
+      },
+      {
+        "idicons" : 576,
+        "iconsDesc" : "emoji_events"
+      },
+      {
+        "idicons" : 577,
+        "iconsDesc" : "emoji_flags"
+      },
+      {
+        "idicons" : 578,
+        "iconsDesc" : "emoji_food_beverage"
+      },
+      {
+        "idicons" : 579,
+        "iconsDesc" : "emoji_nature"
+      },
+      {
+        "idicons" : 580,
+        "iconsDesc" : "emoji_objects"
+      },
+      {
+        "idicons" : 581,
+        "iconsDesc" : "emoji_people"
+      },
+      {
+        "idicons" : 582,
+        "iconsDesc" : "emoji_symbols"
+      },
+      {
+        "idicons" : 583,
+        "iconsDesc" : "emoji_transportation"
+      },
+      {
+        "idicons" : 584,
+        "iconsDesc" : "engineering"
+      },
+      {
+        "idicons" : 585,
+        "iconsDesc" : "enhance_photo_translate"
+      },
+      {
+        "idicons" : 586,
+        "iconsDesc" : "enhanced_encryption"
+      },
+      {
+        "idicons" : 587,
+        "iconsDesc" : "equalizer"
+      },
+      {
+        "idicons" : 588,
+        "iconsDesc" : "error"
+      },
+      {
+        "idicons" : 589,
+        "iconsDesc" : "error_outline"
+      },
+      {
+        "idicons" : 590,
+        "iconsDesc" : "escalator"
+      },
+      {
+        "idicons" : 591,
+        "iconsDesc" : "escalator_warning"
+      },
+      {
+        "idicons" : 592,
+        "iconsDesc" : "euro"
+      },
+      {
+        "idicons" : 593,
+        "iconsDesc" : "euro_symbol"
+      },
+      {
+        "idicons" : 594,
+        "iconsDesc" : "ev_station"
+      },
+      {
+        "idicons" : 595,
+        "iconsDesc" : "event"
+      },
+      {
+        "idicons" : 596,
+        "iconsDesc" : "event_available"
+      },
+      {
+        "idicons" : 597,
+        "iconsDesc" : "event_busy"
+      },
+      {
+        "idicons" : 598,
+        "iconsDesc" : "event_note"
+      },
+      {
+        "idicons" : 599,
+        "iconsDesc" : "event_seat"
+      },
+      {
+        "idicons" : 600,
+        "iconsDesc" : "exit_to_app"
+      },
+      {
+        "idicons" : 601,
+        "iconsDesc" : "expand"
+      },
+      {
+        "idicons" : 602,
+        "iconsDesc" : "expand_less"
+      },
+      {
+        "idicons" : 603,
+        "iconsDesc" : "expand_more"
+      },
+      {
+        "idicons" : 604,
+        "iconsDesc" : "explicit"
+      },
+      {
+        "idicons" : 605,
+        "iconsDesc" : "explore"
+      },
+      {
+        "idicons" : 606,
+        "iconsDesc" : "explore_off"
+      },
+      {
+        "idicons" : 607,
+        "iconsDesc" : "exposure"
+      },
+      {
+        "idicons" : 608,
+        "iconsDesc" : "exposure_minus_1"
+      },
+      {
+        "idicons" : 609,
+        "iconsDesc" : "exposure_minus_2"
+      },
+      {
+        "idicons" : 610,
+        "iconsDesc" : "exposure_neg_1"
+      },
+      {
+        "idicons" : 611,
+        "iconsDesc" : "exposure_neg_2"
+      },
+      {
+        "idicons" : 612,
+        "iconsDesc" : "exposure_plus_1"
+      },
+      {
+        "idicons" : 613,
+        "iconsDesc" : "exposure_plus_2"
+      },
+      {
+        "idicons" : 614,
+        "iconsDesc" : "exposure_zero"
+      },
+      {
+        "idicons" : 615,
+        "iconsDesc" : "extension"
+      },
+      {
+        "idicons" : 616,
+        "iconsDesc" : "extension_off"
+      },
+      {
+        "idicons" : 617,
+        "iconsDesc" : "face"
+      },
+      {
+        "idicons" : 618,
+        "iconsDesc" : "face_retouching_natural"
+      },
+      {
+        "idicons" : 619,
+        "iconsDesc" : "face_retouching_off"
+      },
+      {
+        "idicons" : 620,
+        "iconsDesc" : "facebook"
+      },
+      {
+        "idicons" : 621,
+        "iconsDesc" : "fact_check"
+      },
+      {
+        "idicons" : 622,
+        "iconsDesc" : "family_restroom"
+      },
+      {
+        "idicons" : 623,
+        "iconsDesc" : "fast_forward"
+      },
+      {
+        "idicons" : 624,
+        "iconsDesc" : "fast_rewind"
+      },
+      {
+        "idicons" : 625,
+        "iconsDesc" : "fastfood"
+      },
+      {
+        "idicons" : 626,
+        "iconsDesc" : "favorite"
+      },
+      {
+        "idicons" : 627,
+        "iconsDesc" : "favorite_border"
+      },
+      {
+        "idicons" : 628,
+        "iconsDesc" : "favorite_outline"
+      },
+      {
+        "idicons" : 629,
+        "iconsDesc" : "featured_play_list"
+      },
+      {
+        "idicons" : 630,
+        "iconsDesc" : "featured_video"
+      },
+      {
+        "idicons" : 631,
+        "iconsDesc" : "feed"
+      },
+      {
+        "idicons" : 632,
+        "iconsDesc" : "feedback"
+      },
+      {
+        "idicons" : 633,
+        "iconsDesc" : "female"
+      },
+      {
+        "idicons" : 634,
+        "iconsDesc" : "fence"
+      },
+      {
+        "idicons" : 635,
+        "iconsDesc" : "festival"
+      },
+      {
+        "idicons" : 636,
+        "iconsDesc" : "fiber_dvr"
+      },
+      {
+        "idicons" : 637,
+        "iconsDesc" : "fiber_manual_record"
+      },
+      {
+        "idicons" : 638,
+        "iconsDesc" : "fiber_new"
+      },
+      {
+        "idicons" : 639,
+        "iconsDesc" : "fiber_pin"
+      },
+      {
+        "idicons" : 640,
+        "iconsDesc" : "fiber_smart_record"
+      },
+      {
+        "idicons" : 641,
+        "iconsDesc" : "file_copy"
+      },
+      {
+        "idicons" : 642,
+        "iconsDesc" : "file_download"
+      },
+      {
+        "idicons" : 643,
+        "iconsDesc" : "file_download_done"
+      },
+      {
+        "idicons" : 644,
+        "iconsDesc" : "file_download_off"
+      },
+      {
+        "idicons" : 645,
+        "iconsDesc" : "file_present"
+      },
+      {
+        "idicons" : 646,
+        "iconsDesc" : "file_upload"
+      },
+      {
+        "idicons" : 647,
+        "iconsDesc" : "filter"
+      },
+      {
+        "idicons" : 648,
+        "iconsDesc" : "filter_1"
+      },
+      {
+        "idicons" : 649,
+        "iconsDesc" : "filter_2"
+      },
+      {
+        "idicons" : 650,
+        "iconsDesc" : "filter_3"
+      },
+      {
+        "idicons" : 651,
+        "iconsDesc" : "filter_4"
+      },
+      {
+        "idicons" : 652,
+        "iconsDesc" : "filter_5"
+      },
+      {
+        "idicons" : 653,
+        "iconsDesc" : "filter_6"
+      },
+      {
+        "idicons" : 654,
+        "iconsDesc" : "filter_7"
+      },
+      {
+        "idicons" : 655,
+        "iconsDesc" : "filter_8"
+      },
+      {
+        "idicons" : 656,
+        "iconsDesc" : "filter_9"
+      },
+      {
+        "idicons" : 657,
+        "iconsDesc" : "filter_9_plus"
+      },
+      {
+        "idicons" : 658,
+        "iconsDesc" : "filter_alt"
+      },
+      {
+        "idicons" : 659,
+        "iconsDesc" : "filter_b_and_w"
+      },
+      {
+        "idicons" : 660,
+        "iconsDesc" : "filter_center_focus"
+      },
+      {
+        "idicons" : 661,
+        "iconsDesc" : "filter_drama"
+      },
+      {
+        "idicons" : 662,
+        "iconsDesc" : "filter_frames"
+      },
+      {
+        "idicons" : 663,
+        "iconsDesc" : "filter_hdr"
+      },
+      {
+        "idicons" : 664,
+        "iconsDesc" : "filter_list"
+      },
+      {
+        "idicons" : 665,
+        "iconsDesc" : "filter_list_alt"
+      },
+      {
+        "idicons" : 666,
+        "iconsDesc" : "filter_none"
+      },
+      {
+        "idicons" : 667,
+        "iconsDesc" : "filter_tilt_shift"
+      },
+      {
+        "idicons" : 668,
+        "iconsDesc" : "filter_vintage"
+      },
+      {
+        "idicons" : 669,
+        "iconsDesc" : "find_in_page"
+      },
+      {
+        "idicons" : 670,
+        "iconsDesc" : "find_replace"
+      },
+      {
+        "idicons" : 671,
+        "iconsDesc" : "fingerprint"
+      },
+      {
+        "idicons" : 672,
+        "iconsDesc" : "fire_extinguisher"
+      },
+      {
+        "idicons" : 673,
+        "iconsDesc" : "fire_hydrant"
+      },
+      {
+        "idicons" : 674,
+        "iconsDesc" : "fireplace"
+      },
+      {
+        "idicons" : 675,
+        "iconsDesc" : "first_page"
+      },
+      {
+        "idicons" : 676,
+        "iconsDesc" : "fit_screen"
+      },
+      {
+        "idicons" : 677,
+        "iconsDesc" : "fitness_center"
+      },
+      {
+        "idicons" : 678,
+        "iconsDesc" : "flag"
+      },
+      {
+        "idicons" : 679,
+        "iconsDesc" : "flaky"
+      },
+      {
+        "idicons" : 680,
+        "iconsDesc" : "flare"
+      },
+      {
+        "idicons" : 681,
+        "iconsDesc" : "flash_auto"
+      },
+      {
+        "idicons" : 682,
+        "iconsDesc" : "flash_off"
+      },
+      {
+        "idicons" : 683,
+        "iconsDesc" : "flash_on"
+      },
+      {
+        "idicons" : 684,
+        "iconsDesc" : "flashlight_off"
+      },
+      {
+        "idicons" : 685,
+        "iconsDesc" : "flashlight_on"
+      },
+      {
+        "idicons" : 686,
+        "iconsDesc" : "flatware"
+      },
+      {
+        "idicons" : 687,
+        "iconsDesc" : "flight"
+      },
+      {
+        "idicons" : 688,
+        "iconsDesc" : "flight_land"
+      },
+      {
+        "idicons" : 689,
+        "iconsDesc" : "flight_takeoff"
+      },
+      {
+        "idicons" : 690,
+        "iconsDesc" : "flip"
+      },
+      {
+        "idicons" : 691,
+        "iconsDesc" : "flip_camera_android"
+      },
+      {
+        "idicons" : 692,
+        "iconsDesc" : "flip_camera_ios"
+      },
+      {
+        "idicons" : 693,
+        "iconsDesc" : "flip_to_back"
+      },
+      {
+        "idicons" : 694,
+        "iconsDesc" : "flip_to_front"
+      },
+      {
+        "idicons" : 695,
+        "iconsDesc" : "flourescent"
+      },
+      {
+        "idicons" : 696,
+        "iconsDesc" : "flutter_dash"
+      },
+      {
+        "idicons" : 697,
+        "iconsDesc" : "fmd_bad"
+      },
+      {
+        "idicons" : 698,
+        "iconsDesc" : "fmd_good"
+      },
+      {
+        "idicons" : 699,
+        "iconsDesc" : "folder"
+      },
+      {
+        "idicons" : 700,
+        "iconsDesc" : "folder_open"
+      },
+      {
+        "idicons" : 701,
+        "iconsDesc" : "folder_shared"
+      },
+      {
+        "idicons" : 702,
+        "iconsDesc" : "folder_special"
+      },
+      {
+        "idicons" : 703,
+        "iconsDesc" : "follow_the_signs"
+      },
+      {
+        "idicons" : 704,
+        "iconsDesc" : "font_download"
+      },
+      {
+        "idicons" : 705,
+        "iconsDesc" : "font_download_off"
+      },
+      {
+        "idicons" : 706,
+        "iconsDesc" : "food_bank"
+      },
+      {
+        "idicons" : 707,
+        "iconsDesc" : "format_align_center"
+      },
+      {
+        "idicons" : 708,
+        "iconsDesc" : "format_align_justify"
+      },
+      {
+        "idicons" : 709,
+        "iconsDesc" : "format_align_left"
+      },
+      {
+        "idicons" : 710,
+        "iconsDesc" : "format_align_right"
+      },
+      {
+        "idicons" : 711,
+        "iconsDesc" : "format_bold"
+      },
+      {
+        "idicons" : 712,
+        "iconsDesc" : "format_clear"
+      },
+      {
+        "idicons" : 713,
+        "iconsDesc" : "format_color_fill"
+      },
+      {
+        "idicons" : 714,
+        "iconsDesc" : "format_color_reset"
+      },
+      {
+        "idicons" : 715,
+        "iconsDesc" : "format_color_text"
+      },
+      {
+        "idicons" : 716,
+        "iconsDesc" : "format_indent_decrease"
+      },
+      {
+        "idicons" : 717,
+        "iconsDesc" : "format_indent_increase"
+      },
+      {
+        "idicons" : 718,
+        "iconsDesc" : "format_italic"
+      },
+      {
+        "idicons" : 719,
+        "iconsDesc" : "format_line_spacing"
+      },
+      {
+        "idicons" : 720,
+        "iconsDesc" : "format_list_bulleted"
+      },
+      {
+        "idicons" : 721,
+        "iconsDesc" : "format_list_numbered"
+      },
+      {
+        "idicons" : 722,
+        "iconsDesc" : "format_list_numbered_rtl"
+      },
+      {
+        "idicons" : 723,
+        "iconsDesc" : "format_paint"
+      },
+      {
+        "idicons" : 724,
+        "iconsDesc" : "format_quote"
+      },
+      {
+        "idicons" : 725,
+        "iconsDesc" : "format_shapes"
+      },
+      {
+        "idicons" : 726,
+        "iconsDesc" : "format_size"
+      },
+      {
+        "idicons" : 727,
+        "iconsDesc" : "format_strikethrough"
+      },
+      {
+        "idicons" : 728,
+        "iconsDesc" : "format_textdirection_l_to_r"
+      },
+      {
+        "idicons" : 729,
+        "iconsDesc" : "format_textdirection_r_to_l"
+      },
+      {
+        "idicons" : 730,
+        "iconsDesc" : "format_underline"
+      },
+      {
+        "idicons" : 731,
+        "iconsDesc" : "format_underlined"
+      },
+      {
+        "idicons" : 732,
+        "iconsDesc" : "forum"
+      },
+      {
+        "idicons" : 733,
+        "iconsDesc" : "forward"
+      },
+      {
+        "idicons" : 734,
+        "iconsDesc" : "forward_10"
+      },
+      {
+        "idicons" : 735,
+        "iconsDesc" : "forward_30"
+      },
+      {
+        "idicons" : 736,
+        "iconsDesc" : "forward_5"
+      },
+      {
+        "idicons" : 737,
+        "iconsDesc" : "forward_to_inbox"
+      },
+      {
+        "idicons" : 738,
+        "iconsDesc" : "foundation"
+      },
+      {
+        "idicons" : 739,
+        "iconsDesc" : "free_breakfast"
+      },
+      {
+        "idicons" : 740,
+        "iconsDesc" : "free_cancellation"
+      },
+      {
+        "idicons" : 741,
+        "iconsDesc" : "front_hand"
+      },
+      {
+        "idicons" : 742,
+        "iconsDesc" : "fullscreen"
+      },
+      {
+        "idicons" : 743,
+        "iconsDesc" : "fullscreen_exit"
+      },
+      {
+        "idicons" : 744,
+        "iconsDesc" : "functions"
+      },
+      {
+        "idicons" : 745,
+        "iconsDesc" : "g_mobiledata"
+      },
+      {
+        "idicons" : 746,
+        "iconsDesc" : "g_translate"
+      },
+      {
+        "idicons" : 747,
+        "iconsDesc" : "gamepad"
+      },
+      {
+        "idicons" : 748,
+        "iconsDesc" : "games"
+      },
+      {
+        "idicons" : 749,
+        "iconsDesc" : "garage"
+      },
+      {
+        "idicons" : 750,
+        "iconsDesc" : "gavel"
+      },
+      {
+        "idicons" : 751,
+        "iconsDesc" : "generating_tokens"
+      },
+      {
+        "idicons" : 752,
+        "iconsDesc" : "gesture"
+      },
+      {
+        "idicons" : 753,
+        "iconsDesc" : "get_app"
+      },
+      {
+        "idicons" : 754,
+        "iconsDesc" : "gif"
+      },
+      {
+        "idicons" : 755,
+        "iconsDesc" : "gite"
+      },
+      {
+        "idicons" : 756,
+        "iconsDesc" : "goat"
+      },
+      {
+        "idicons" : 757,
+        "iconsDesc" : "golf_course"
+      },
+      {
+        "idicons" : 758,
+        "iconsDesc" : "gpp_bad"
+      },
+      {
+        "idicons" : 759,
+        "iconsDesc" : "gpp_good"
+      },
+      {
+        "idicons" : 760,
+        "iconsDesc" : "gpp_maybe"
+      },
+      {
+        "idicons" : 761,
+        "iconsDesc" : "gps_fixed"
+      },
+      {
+        "idicons" : 762,
+        "iconsDesc" : "gps_not_fixed"
+      },
+      {
+        "idicons" : 763,
+        "iconsDesc" : "gps_off"
+      },
+      {
+        "idicons" : 764,
+        "iconsDesc" : "grade"
+      },
+      {
+        "idicons" : 765,
+        "iconsDesc" : "gradient"
+      },
+      {
+        "idicons" : 766,
+        "iconsDesc" : "grading"
+      },
+      {
+        "idicons" : 767,
+        "iconsDesc" : "grain"
+      },
+      {
+        "idicons" : 768,
+        "iconsDesc" : "graphic_eq"
+      },
+      {
+        "idicons" : 769,
+        "iconsDesc" : "grass"
+      },
+      {
+        "idicons" : 770,
+        "iconsDesc" : "grid_3x3"
+      },
+      {
+        "idicons" : 771,
+        "iconsDesc" : "grid_4x4"
+      },
+      {
+        "idicons" : 772,
+        "iconsDesc" : "grid_goldenratio"
+      },
+      {
+        "idicons" : 773,
+        "iconsDesc" : "grid_off"
+      },
+      {
+        "idicons" : 774,
+        "iconsDesc" : "grid_on"
+      },
+      {
+        "idicons" : 775,
+        "iconsDesc" : "grid_view"
+      },
+      {
+        "idicons" : 776,
+        "iconsDesc" : "group"
+      },
+      {
+        "idicons" : 777,
+        "iconsDesc" : "group_add"
+      },
+      {
+        "idicons" : 778,
+        "iconsDesc" : "group_off"
+      },
+      {
+        "idicons" : 779,
+        "iconsDesc" : "group_work"
+      },
+      {
+        "idicons" : 780,
+        "iconsDesc" : "groups"
+      },
+      {
+        "idicons" : 781,
+        "iconsDesc" : "h_mobiledata"
+      },
+      {
+        "idicons" : 782,
+        "iconsDesc" : "h_plus_mobiledata"
+      },
+      {
+        "idicons" : 783,
+        "iconsDesc" : "hail"
+      },
+      {
+        "idicons" : 784,
+        "iconsDesc" : "handyman"
+      },
+      {
+        "idicons" : 785,
+        "iconsDesc" : "hardware"
+      },
+      {
+        "idicons" : 786,
+        "iconsDesc" : "hd"
+      },
+      {
+        "idicons" : 787,
+        "iconsDesc" : "hdr_auto"
+      },
+      {
+        "idicons" : 788,
+        "iconsDesc" : "hdr_auto_select"
+      },
+      {
+        "idicons" : 789,
+        "iconsDesc" : "hdr_enhanced_select"
+      },
+      {
+        "idicons" : 790,
+        "iconsDesc" : "hdr_off"
+      },
+      {
+        "idicons" : 791,
+        "iconsDesc" : "hdr_off_select"
+      },
+      {
+        "idicons" : 792,
+        "iconsDesc" : "hdr_on"
+      },
+      {
+        "idicons" : 793,
+        "iconsDesc" : "hdr_on_select"
+      },
+      {
+        "idicons" : 794,
+        "iconsDesc" : "hdr_plus"
+      },
+      {
+        "idicons" : 795,
+        "iconsDesc" : "hdr_strong"
+      },
+      {
+        "idicons" : 796,
+        "iconsDesc" : "hdr_weak"
+      },
+      {
+        "idicons" : 797,
+        "iconsDesc" : "headphones"
+      },
+      {
+        "idicons" : 798,
+        "iconsDesc" : "headphones_battery"
+      },
+      {
+        "idicons" : 799,
+        "iconsDesc" : "headset"
+      },
+      {
+        "idicons" : 800,
+        "iconsDesc" : "headset_mic"
+      },
+      {
+        "idicons" : 801,
+        "iconsDesc" : "headset_off"
+      },
+      {
+        "idicons" : 802,
+        "iconsDesc" : "healing"
+      },
+      {
+        "idicons" : 803,
+        "iconsDesc" : "health_and_safety"
+      },
+      {
+        "idicons" : 804,
+        "iconsDesc" : "hearing"
+      },
+      {
+        "idicons" : 805,
+        "iconsDesc" : "hearing_disabled"
+      },
+      {
+        "idicons" : 806,
+        "iconsDesc" : "height"
+      },
+      {
+        "idicons" : 807,
+        "iconsDesc" : "help"
+      },
+      {
+        "idicons" : 808,
+        "iconsDesc" : "help_center"
+      },
+      {
+        "idicons" : 809,
+        "iconsDesc" : "help_outline"
+      },
+      {
+        "idicons" : 810,
+        "iconsDesc" : "hevc"
+      },
+      {
+        "idicons" : 811,
+        "iconsDesc" : "hide_image"
+      },
+      {
+        "idicons" : 812,
+        "iconsDesc" : "hide_source"
+      },
+      {
+        "idicons" : 813,
+        "iconsDesc" : "high_quality"
+      },
+      {
+        "idicons" : 814,
+        "iconsDesc" : "highlight"
+      },
+      {
+        "idicons" : 815,
+        "iconsDesc" : "highlight_alt"
+      },
+      {
+        "idicons" : 816,
+        "iconsDesc" : "highlight_off"
+      },
+      {
+        "idicons" : 817,
+        "iconsDesc" : "highlight_remove"
+      },
+      {
+        "idicons" : 818,
+        "iconsDesc" : "hiking"
+      },
+      {
+        "idicons" : 819,
+        "iconsDesc" : "history"
+      },
+      {
+        "idicons" : 820,
+        "iconsDesc" : "history_edu"
+      },
+      {
+        "idicons" : 821,
+        "iconsDesc" : "history_toggle_off"
+      },
+      {
+        "idicons" : 822,
+        "iconsDesc" : "holiday_village"
+      },
+      {
+        "idicons" : 823,
+        "iconsDesc" : "home"
+      },
+      {
+        "idicons" : 824,
+        "iconsDesc" : "home_filled"
+      },
+      {
+        "idicons" : 825,
+        "iconsDesc" : "home_max"
+      },
+      {
+        "idicons" : 826,
+        "iconsDesc" : "home_mini"
+      },
+      {
+        "idicons" : 827,
+        "iconsDesc" : "home_repair_service"
+      },
+      {
+        "idicons" : 828,
+        "iconsDesc" : "home_work"
+      },
+      {
+        "idicons" : 829,
+        "iconsDesc" : "horizontal_distribute"
+      },
+      {
+        "idicons" : 830,
+        "iconsDesc" : "horizontal_rule"
+      },
+      {
+        "idicons" : 831,
+        "iconsDesc" : "horizontal_split"
+      },
+      {
+        "idicons" : 832,
+        "iconsDesc" : "hot_tub"
+      },
+      {
+        "idicons" : 833,
+        "iconsDesc" : "hotel"
+      },
+      {
+        "idicons" : 834,
+        "iconsDesc" : "hotel_class"
+      },
+      {
+        "idicons" : 835,
+        "iconsDesc" : "hourglass_bottom"
+      },
+      {
+        "idicons" : 836,
+        "iconsDesc" : "hourglass_disabled"
+      },
+      {
+        "idicons" : 837,
+        "iconsDesc" : "hourglass_empty"
+      },
+      {
+        "idicons" : 838,
+        "iconsDesc" : "hourglass_full"
+      },
+      {
+        "idicons" : 839,
+        "iconsDesc" : "hourglass_top"
+      },
+      {
+        "idicons" : 840,
+        "iconsDesc" : "house"
+      },
+      {
+        "idicons" : 841,
+        "iconsDesc" : "house_siding"
+      },
+      {
+        "idicons" : 842,
+        "iconsDesc" : "houseboat"
+      },
+      {
+        "idicons" : 843,
+        "iconsDesc" : "how_to_reg"
+      },
+      {
+        "idicons" : 844,
+        "iconsDesc" : "how_to_vote"
+      },
+      {
+        "idicons" : 845,
+        "iconsDesc" : "http"
+      },
+      {
+        "idicons" : 846,
+        "iconsDesc" : "https"
+      },
+      {
+        "idicons" : 847,
+        "iconsDesc" : "hvac"
+      },
+      {
+        "idicons" : 848,
+        "iconsDesc" : "ice_skating"
+      },
+      {
+        "idicons" : 849,
+        "iconsDesc" : "icecream"
+      },
+      {
+        "idicons" : 850,
+        "iconsDesc" : "image"
+      },
+      {
+        "idicons" : 851,
+        "iconsDesc" : "image_aspect_ratio"
+      },
+      {
+        "idicons" : 852,
+        "iconsDesc" : "image_not_supported"
+      },
+      {
+        "idicons" : 853,
+        "iconsDesc" : "image_search"
+      },
+      {
+        "idicons" : 854,
+        "iconsDesc" : "imagesearch_roller"
+      },
+      {
+        "idicons" : 855,
+        "iconsDesc" : "import_contacts"
+      },
+      {
+        "idicons" : 856,
+        "iconsDesc" : "import_export"
+      },
+      {
+        "idicons" : 857,
+        "iconsDesc" : "important_devices"
+      },
+      {
+        "idicons" : 858,
+        "iconsDesc" : "inbox"
+      },
+      {
+        "idicons" : 859,
+        "iconsDesc" : "incomplete_circle"
+      },
+      {
+        "idicons" : 860,
+        "iconsDesc" : "indeterminate_check_box"
+      },
+      {
+        "idicons" : 861,
+        "iconsDesc" : "info"
+      },
+      {
+        "idicons" : 862,
+        "iconsDesc" : "info_outline"
+      },
+      {
+        "idicons" : 863,
+        "iconsDesc" : "input"
+      },
+      {
+        "idicons" : 864,
+        "iconsDesc" : "insert_chart"
+      },
+      {
+        "idicons" : 865,
+        "iconsDesc" : "insert_chart_outlined"
+      },
+      {
+        "idicons" : 866,
+        "iconsDesc" : "insert_comment"
+      },
+      {
+        "idicons" : 867,
+        "iconsDesc" : "insert_drive_file"
+      },
+      {
+        "idicons" : 868,
+        "iconsDesc" : "insert_emoticon"
+      },
+      {
+        "idicons" : 869,
+        "iconsDesc" : "insert_invitation"
+      },
+      {
+        "idicons" : 870,
+        "iconsDesc" : "insert_link"
+      },
+      {
+        "idicons" : 871,
+        "iconsDesc" : "insert_photo"
+      },
+      {
+        "idicons" : 872,
+        "iconsDesc" : "insights"
+      },
+      {
+        "idicons" : 873,
+        "iconsDesc" : "integration_instructions"
+      },
+      {
+        "idicons" : 874,
+        "iconsDesc" : "inventory"
+      },
+      {
+        "idicons" : 875,
+        "iconsDesc" : "inventory_2"
+      },
+      {
+        "idicons" : 876,
+        "iconsDesc" : "invert_colors"
+      },
+      {
+        "idicons" : 877,
+        "iconsDesc" : "invert_colors_off"
+      },
+      {
+        "idicons" : 878,
+        "iconsDesc" : "invert_colors_on"
+      },
+      {
+        "idicons" : 879,
+        "iconsDesc" : "ios_share"
+      },
+      {
+        "idicons" : 880,
+        "iconsDesc" : "iron"
+      },
+      {
+        "idicons" : 881,
+        "iconsDesc" : "iso"
+      },
+      {
+        "idicons" : 882,
+        "iconsDesc" : "kayaking"
+      },
+      {
+        "idicons" : 883,
+        "iconsDesc" : "keyboard"
+      },
+      {
+        "idicons" : 884,
+        "iconsDesc" : "keyboard_alt"
+      },
+      {
+        "idicons" : 885,
+        "iconsDesc" : "keyboard_arrow_down"
+      },
+      {
+        "idicons" : 886,
+        "iconsDesc" : "keyboard_arrow_left"
+      },
+      {
+        "idicons" : 887,
+        "iconsDesc" : "keyboard_arrow_right"
+      },
+      {
+        "idicons" : 888,
+        "iconsDesc" : "keyboard_arrow_up"
+      },
+      {
+        "idicons" : 889,
+        "iconsDesc" : "keyboard_backspace"
+      },
+      {
+        "idicons" : 890,
+        "iconsDesc" : "keyboard_capslock"
+      },
+      {
+        "idicons" : 891,
+        "iconsDesc" : "keyboard_control"
+      },
+      {
+        "idicons" : 892,
+        "iconsDesc" : "keyboard_hide"
+      },
+      {
+        "idicons" : 893,
+        "iconsDesc" : "keyboard_return"
+      },
+      {
+        "idicons" : 894,
+        "iconsDesc" : "keyboard_tab"
+      },
+      {
+        "idicons" : 895,
+        "iconsDesc" : "keyboard_voice"
+      },
+      {
+        "idicons" : 896,
+        "iconsDesc" : "king_bed"
+      },
+      {
+        "idicons" : 897,
+        "iconsDesc" : "kitchen"
+      },
+      {
+        "idicons" : 898,
+        "iconsDesc" : "kitesurfing"
+      },
+      {
+        "idicons" : 899,
+        "iconsDesc" : "label"
+      },
+      {
+        "idicons" : 900,
+        "iconsDesc" : "label_important"
+      },
+      {
+        "idicons" : 901,
+        "iconsDesc" : "label_important_outline"
+      },
+      {
+        "idicons" : 902,
+        "iconsDesc" : "label_off"
+      },
+      {
+        "idicons" : 903,
+        "iconsDesc" : "label_outline"
+      },
+      {
+        "idicons" : 904,
+        "iconsDesc" : "landscape"
+      },
+      {
+        "idicons" : 905,
+        "iconsDesc" : "language"
+      },
+      {
+        "idicons" : 906,
+        "iconsDesc" : "laptop"
+      },
+      {
+        "idicons" : 907,
+        "iconsDesc" : "laptop_chromebook"
+      },
+      {
+        "idicons" : 908,
+        "iconsDesc" : "laptop_mac"
+      },
+      {
+        "idicons" : 909,
+        "iconsDesc" : "laptop_windows"
+      },
+      {
+        "idicons" : 910,
+        "iconsDesc" : "last_page"
+      },
+      {
+        "idicons" : 911,
+        "iconsDesc" : "launch"
+      },
+      {
+        "idicons" : 912,
+        "iconsDesc" : "layers"
+      },
+      {
+        "idicons" : 913,
+        "iconsDesc" : "layers_clear"
+      },
+      {
+        "idicons" : 914,
+        "iconsDesc" : "leaderboard"
+      },
+      {
+        "idicons" : 915,
+        "iconsDesc" : "leak_add"
+      },
+      {
+        "idicons" : 916,
+        "iconsDesc" : "leak_remove"
+      },
+      {
+        "idicons" : 917,
+        "iconsDesc" : "leave_bags_at_home"
+      },
+      {
+        "idicons" : 918,
+        "iconsDesc" : "legend_toggle"
+      },
+      {
+        "idicons" : 919,
+        "iconsDesc" : "lens"
+      },
+      {
+        "idicons" : 920,
+        "iconsDesc" : "lens_blur"
+      },
+      {
+        "idicons" : 921,
+        "iconsDesc" : "library_add"
+      },
+      {
+        "idicons" : 922,
+        "iconsDesc" : "library_add_check"
+      },
+      {
+        "idicons" : 923,
+        "iconsDesc" : "library_books"
+      },
+      {
+        "idicons" : 924,
+        "iconsDesc" : "library_music"
+      },
+      {
+        "idicons" : 925,
+        "iconsDesc" : "light"
+      },
+      {
+        "idicons" : 926,
+        "iconsDesc" : "light_mode"
+      },
+      {
+        "idicons" : 927,
+        "iconsDesc" : "lightbulb"
+      },
+      {
+        "idicons" : 928,
+        "iconsDesc" : "lightbulb_outline"
+      },
+      {
+        "idicons" : 929,
+        "iconsDesc" : "line_style"
+      },
+      {
+        "idicons" : 930,
+        "iconsDesc" : "line_weight"
+      },
+      {
+        "idicons" : 931,
+        "iconsDesc" : "linear_scale"
+      },
+      {
+        "idicons" : 932,
+        "iconsDesc" : "link"
+      },
+      {
+        "idicons" : 933,
+        "iconsDesc" : "link_off"
+      },
+      {
+        "idicons" : 934,
+        "iconsDesc" : "linked_camera"
+      },
+      {
+        "idicons" : 935,
+        "iconsDesc" : "liquor"
+      },
+      {
+        "idicons" : 936,
+        "iconsDesc" : "list"
+      },
+      {
+        "idicons" : 937,
+        "iconsDesc" : "list_alt"
+      },
+      {
+        "idicons" : 938,
+        "iconsDesc" : "live_help"
+      },
+      {
+        "idicons" : 939,
+        "iconsDesc" : "live_tv"
+      },
+      {
+        "idicons" : 940,
+        "iconsDesc" : "living"
+      },
+      {
+        "idicons" : 941,
+        "iconsDesc" : "local_activity"
+      },
+      {
+        "idicons" : 942,
+        "iconsDesc" : "local_airport"
+      },
+      {
+        "idicons" : 943,
+        "iconsDesc" : "local_atm"
+      },
+      {
+        "idicons" : 944,
+        "iconsDesc" : "local_attraction"
+      },
+      {
+        "idicons" : 945,
+        "iconsDesc" : "local_bar"
+      },
+      {
+        "idicons" : 946,
+        "iconsDesc" : "local_cafe"
+      },
+      {
+        "idicons" : 947,
+        "iconsDesc" : "local_car_wash"
+      },
+      {
+        "idicons" : 948,
+        "iconsDesc" : "local_convenience_store"
+      },
+      {
+        "idicons" : 949,
+        "iconsDesc" : "local_dining"
+      },
+      {
+        "idicons" : 950,
+        "iconsDesc" : "local_drink"
+      },
+      {
+        "idicons" : 951,
+        "iconsDesc" : "local_fire_department"
+      },
+      {
+        "idicons" : 952,
+        "iconsDesc" : "local_florist"
+      },
+      {
+        "idicons" : 953,
+        "iconsDesc" : "local_gas_station"
+      },
+      {
+        "idicons" : 954,
+        "iconsDesc" : "local_grocery_store"
+      },
+      {
+        "idicons" : 955,
+        "iconsDesc" : "local_hospital"
+      },
+      {
+        "idicons" : 956,
+        "iconsDesc" : "local_hotel"
+      },
+      {
+        "idicons" : 957,
+        "iconsDesc" : "local_laundry_service"
+      },
+      {
+        "idicons" : 958,
+        "iconsDesc" : "local_library"
+      },
+      {
+        "idicons" : 959,
+        "iconsDesc" : "local_mall"
+      },
+      {
+        "idicons" : 960,
+        "iconsDesc" : "local_movies"
+      },
+      {
+        "idicons" : 961,
+        "iconsDesc" : "local_offer"
+      },
+      {
+        "idicons" : 962,
+        "iconsDesc" : "local_parking"
+      },
+      {
+        "idicons" : 963,
+        "iconsDesc" : "local_pharmacy"
+      },
+      {
+        "idicons" : 964,
+        "iconsDesc" : "local_phone"
+      },
+      {
+        "idicons" : 965,
+        "iconsDesc" : "local_pizza"
+      },
+      {
+        "idicons" : 966,
+        "iconsDesc" : "local_play"
+      },
+      {
+        "idicons" : 967,
+        "iconsDesc" : "local_police"
+      },
+      {
+        "idicons" : 968,
+        "iconsDesc" : "local_post_office"
+      },
+      {
+        "idicons" : 969,
+        "iconsDesc" : "local_print_shop"
+      },
+      {
+        "idicons" : 970,
+        "iconsDesc" : "local_printshop"
+      },
+      {
+        "idicons" : 971,
+        "iconsDesc" : "local_restaurant"
+      },
+      {
+        "idicons" : 972,
+        "iconsDesc" : "local_see"
+      },
+      {
+        "idicons" : 973,
+        "iconsDesc" : "local_shipping"
+      },
+      {
+        "idicons" : 974,
+        "iconsDesc" : "local_taxi"
+      },
+      {
+        "idicons" : 975,
+        "iconsDesc" : "location_city"
+      },
+      {
+        "idicons" : 976,
+        "iconsDesc" : "location_disabled"
+      },
+      {
+        "idicons" : 977,
+        "iconsDesc" : "location_history"
+      },
+      {
+        "idicons" : 978,
+        "iconsDesc" : "location_off"
+      },
+      {
+        "idicons" : 979,
+        "iconsDesc" : "location_on"
+      },
+      {
+        "idicons" : 980,
+        "iconsDesc" : "location_pin"
+      },
+      {
+        "idicons" : 981,
+        "iconsDesc" : "location_searching"
+      },
+      {
+        "idicons" : 982,
+        "iconsDesc" : "lock"
+      },
+      {
+        "idicons" : 983,
+        "iconsDesc" : "lock_clock"
+      },
+      {
+        "idicons" : 984,
+        "iconsDesc" : "lock_open"
+      },
+      {
+        "idicons" : 985,
+        "iconsDesc" : "lock_outline"
+      },
+      {
+        "idicons" : 986,
+        "iconsDesc" : "login"
+      },
+      {
+        "idicons" : 987,
+        "iconsDesc" : "logout"
+      },
+      {
+        "idicons" : 988,
+        "iconsDesc" : "looks"
+      },
+      {
+        "idicons" : 989,
+        "iconsDesc" : "looks_3"
+      },
+      {
+        "idicons" : 990,
+        "iconsDesc" : "looks_4"
+      },
+      {
+        "idicons" : 991,
+        "iconsDesc" : "looks_5"
+      },
+      {
+        "idicons" : 992,
+        "iconsDesc" : "looks_6"
+      },
+      {
+        "idicons" : 993,
+        "iconsDesc" : "looks_one"
+      },
+      {
+        "idicons" : 994,
+        "iconsDesc" : "looks_two"
+      },
+      {
+        "idicons" : 995,
+        "iconsDesc" : "loop"
+      },
+      {
+        "idicons" : 996,
+        "iconsDesc" : "loupe"
+      },
+      {
+        "idicons" : 997,
+        "iconsDesc" : "low_priority"
+      },
+      {
+        "idicons" : 998,
+        "iconsDesc" : "loyalty"
+      },
+      {
+        "idicons" : 999,
+        "iconsDesc" : "lte_mobiledata"
+      },
+      {
+        "idicons" : 1000,
+        "iconsDesc" : "lte_plus_mobiledata"
+      }
+]

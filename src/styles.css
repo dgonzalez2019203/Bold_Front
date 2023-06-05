@@ -1,0 +1,85 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+min-width: none !important; }
+.mat-list-base .mat-list-item .mat-list-item-content{
+    padding-left: 10px !important;
+    padding-right: 100px !important;
+}
+
+*{
+    outline: none !important;
+}
+
+th.mat-header-cell, td.mat-cell, td.mat-footer-cell{
+    padding: 0.1rem !important;
+    font-size: 12px !important;
+}
+.mat-menu-content {
+    background-color: white !important;
+}
+
+/* Propiedades para BottomSheet */
+.titleBS{
+    line-height: 90% !important;
+    color: #4F5251;
+}
+
+.subTitleBS{
+    color: #4F5251;
+    line-height: 140% !important;
+}
+
+/* Propiedades para componentes */
+.title{
+    line-height: 90%;
+    color: #4F5251;
+    margin-left: 1.5rem !important;
+}
+
+.subTitle{
+    color: #4F5251;
+    line-height: 140% !important;
+    margin-left: 1.5rem !important;
+}
+
+.search{
+    font-size: 12px !important; 
+    width: 80rem !important; 
+    margin-left: 0.5rem !important; 
+    margin-right: 1rem !important;
+}
+
+.filter{
+    font-size: 12px !important; 
+    width: 90rem !important; 
+    margin-left: 0.5rem !important; 
+    margin-right: 1rem !important;
+}
+
+.reload{
+    cursor: pointer !important;
+    margin-top: 1rem !important;
+}
+
+.select-paginator{
+    justify-content: end; 
+    margin-left: 50rem !important;
+}
+
+/* Propiedades headers btn */
+.header-back{
+    margin-top: 31px !important;
+    margin-left: 50% !important;
+    background-color: #222d32 !important;
+    width: 120px !important;
+    height: 40px !important;    
+}
+
+
+.header-add{
+    background-color: #222d32 !important; 
+    width: 120px !important; 
+    height: 40px !important;
+}

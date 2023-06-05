@@ -1,0 +1,25 @@
+<mat-nav-list>
+    <h2 class="titleBS mt-2"><b>Mantenimiento Usuarios</b></h2>
+    <div style="display:flex;">
+        <h3 class="subTitleBS" >ELIMINAR <b> / Usuario</b></h3>                
+    </div>
+    <mat-divider></mat-divider>
+
+    <div class="w-100 mt-3">
+        <span class="text-center">¿Estás seguro de eliminar este registro?</span>
+        <br>
+        <span class="text-danger">Nota: No podrás recuperar la información.</span>
+    </div>
+
+    <div class="w-100 mt-2 mb-2">
+        <button mat-button (click)="close()" class="btn-dark mt-3 mr-2" tabindex="-1">
+            <mat-icon>close</mat-icon> Cerrar
+        </button>
+        
+        <button mat-button (click)="delete()" class="btn-danger mt-3 mr-2" tabindex="-1">
+            <mat-icon>delete</mat-icon> Eliminar
+        </button>
+    </div>
+
+    
+</mat-nav-list>
